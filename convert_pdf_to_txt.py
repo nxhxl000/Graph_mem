@@ -7,8 +7,8 @@ import requests
 import json
 
 # 🔧 НАСТРОЙКИ
-INPUT_PDF_PATH = r"C:\MISIS\graph\text_2_clean.pdf"
-OUTPUT_TXT_PATH = r"C:\MISIS\graph\text_2.txt"
+INPUT_PDF_PATH = r"C:\MISIS\graph\text_1_clean.pdf"
+OUTPUT_TXT_PATH = r"C:\MISIS\graph\text_1.txt"
 DPI = 200
 
 OLLAMA_URL = "http://localhost:11434/api/generate"
