@@ -2,7 +2,7 @@ from pathlib import Path
 import re
 import nltk
 
-# Загружаем стоп-слова
+# Загрузка стоп-слов
 nltk.download('stopwords')
 from nltk.corpus import stopwords
 
@@ -11,21 +11,40 @@ BASE_DIR = Path(__file__).resolve().parent
 INPUT_PATH = BASE_DIR.parent / "files/sentences_1_renum.txt"
 OUTPUT_PATH = BASE_DIR.parent / "files/sentences_1_no_stopwords.txt"
 
+# Стандартные русские стоп-слова
 russian_stopwords = set(stopwords.words('russian'))
+
+# Важные местоимения, которые НЕ удаляем
+important_pronouns = {
+    # Личные
+    'я', 'ты', 'он', 'она', 'оно', 'мы', 'вы', 'они',
+    'меня', 'тебя', 'его', 'ее', 'нас', 'вас', 'их',
+    'мне', 'тебе', 'ему', 'ей', 'нам', 'вам', 'им',
+    'мой', 'твой', 'его', 'ее', 'наш', 'ваш', 'их',
+    'моё', 'твоё', 'наше', 'ваше',
+    'моя', 'твоя', 'наша', 'ваша',
+    'мои', 'твои', 'наши', 'ваши',
+
+    # Указательные
+    'этот', 'эта', 'это', 'эти', 'тот', 'та', 'то', 'те',
+    'такой', 'такая', 'такое', 'такие', 'таков', 'такова', 'таково', 'таковы',
+
+    # Относительные и вопросительные
+    'кто', 'что', 'какой', 'какая', 'какое', 'какие',
+    'который', 'которая', 'которое', 'которые',
+    'чей', 'чья', 'чьё', 'чьи'
+}
+
+# Убираем эти местоимения из стандартного списка стоп-слов
+russian_stopwords -= important_pronouns
 
 # Функция для удаления стоп-слов
 def remove_stopwords(text):
-    # Разбиваем на слова и знаки препинания
     tokens = re.findall(r'\b\w+\b|[^\w\s]', text, re.UNICODE)
     filtered_tokens = [t for t in tokens if t.lower() not in russian_stopwords]
-    result = ' '.join(filtered_tokens)
-    # Убираем лишние пробелы перед знаками препинания
-    # result = re.sub(r'\s+([,.:;!?])', r'\1', result)
-    # Убираем лишние двойные пробелы
-    result = re.sub(r'\s{2,}', ' ', result)
-    return result
+    return ' '.join(filtered_tokens)
 
-# Чтение файла
+# Чтение входного файла
 with open(INPUT_PATH, "r", encoding="utf-8") as f:
     lines = f.readlines()
 
@@ -36,7 +55,6 @@ for line in lines:
     if not line:
         continue
 
-    # Разбор индекса и текста
     m = re.match(r"(\d+)_(\d+):\s*(.+)", line)
     if not m:
         new_lines.append(line)
@@ -44,9 +62,10 @@ for line in lines:
 
     page_num, sent_num, sentence_text = m.groups()
     clean_sentence = remove_stopwords(sentence_text)
+
     new_lines.append(f"{page_num}_{sent_num}: {clean_sentence}")
 
-# Запись в файл
+# Запись результата
 with open(OUTPUT_PATH, "w", encoding="utf-8") as f_out:
     f_out.write("\n".join(new_lines))
 
