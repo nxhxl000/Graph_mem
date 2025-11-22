@@ -1,0 +1,14 @@
+name: graph_mem_reco
+channels:
+  - conda-forge          # лучше добавить, чтобы spaCy работал стабильнее
+dependencies:
+  - python=3.10
+  - pandas
+  - numpy
+  - python-dotenv
+  - nltk
+  - pip
+  - pip:
+      - spacy
+      - pymorphy2
+      - pymorphy2-dicts-ru
