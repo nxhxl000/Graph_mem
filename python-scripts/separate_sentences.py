@@ -8,8 +8,8 @@ nltk.download('punkt')
 
 # Пути
 BASE_DIR = Path(__file__).resolve().parent
-INPUT_PATH = BASE_DIR.parent / "text_2.txt"
-OUTPUT_PATH = BASE_DIR.parent / "files/sentences_2.txt"
+INPUT_PATH = BASE_DIR.parent / "text_1.txt"
+OUTPUT_PATH = BASE_DIR.parent / "files/sentences_1.txt"
 
 # Чтение текста
 with open(INPUT_PATH, "r", encoding="utf-8") as f:
