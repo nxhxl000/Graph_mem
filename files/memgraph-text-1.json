@@ -1,0 +1,5175 @@
+[
+  {
+    "id": 61,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "\u043e\u0431\u043e\u0433\u0430\u0449\u0435\u043d\u0438\u0435 \u043a\u043e\u043d\u043a\u0440\u0435\u0446\u0438\u0439",
+      "original_id": "A61"
+    },
+    "type": "node"
+  },
+  {
+    "id": 62,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "\u0444\u043b\u043e\u0442\u0430\u0446\u0438\u044f",
+      "original_id": "A62"
+    },
+    "type": "node"
+  },
+  {
+    "id": 63,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "\u043c\u0430\u0433\u043d\u0438\u0442\u043d\u0430\u044f \u0441\u0435\u043f\u0430\u0440\u0430\u0446\u0438\u044f",
+      "original_id": "A63"
+    },
+    "type": "node"
+  },
+  {
+    "id": 64,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "\u0433\u0440\u0430\u0432\u0438\u0442\u0430\u0446\u0438\u043e\u043d\u043d\u043e\u0435 \u0440\u0430\u0437\u0434\u0435\u043b\u0435\u043d\u0438\u0435",
+      "original_id": "A64"
+    },
+    "type": "node"
+  },
+  {
+    "id": 65,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "\u043e\u043a\u0438\u0441\u043b\u0435\u043d\u043d\u044b\u0435 \u043d\u0438\u043a\u0435\u043b\u0435\u0432\u044b\u0435 \u0440\u0443\u0434\u044b",
+      "original_id": "A65"
+    },
+    "type": "node"
+  },
+  {
+    "id": 66,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "\u0444\u0430\u0439\u043d\u0448\u0442\u0435\u0439\u043d",
+      "original_id": "A66"
+    },
+    "type": "node"
+  },
+  {
+    "id": 67,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "\u043a\u043e\u043d\u0432\u0435\u0440\u0442\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 \u0448\u0442\u0435\u0439\u043d\u0430",
+      "original_id": "A67"
+    },
+    "type": "node"
+  },
+  {
+    "id": 68,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "\u043f\u0438\u0440\u043e\u043c\u0435\u0442\u0430\u043b\u043b\u0443\u0440\u0433\u0438\u044f \u043a\u043e\u0431\u0430\u043b\u044c\u0442\u0430",
+      "original_id": "A68"
+    },
+    "type": "node"
+  },
+  {
+    "id": 69,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "\u0434\u0438\u0430\u0433\u0440\u0430\u043c\u043c\u044b \u043f\u043b\u0430\u0432\u043a\u043e\u0441\u0442\u0438",
+      "original_id": "A69"
+    },
+    "type": "node"
+  },
+  {
+    "id": 70,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "\u0441\u0443\u043b\u044c\u0444\u0438\u0434\u043d\u044b\u0435 \u0441\u0438\u0441\u0442\u0435\u043c\u044b",
+      "original_id": "A70"
+    },
+    "type": "node"
+  },
+  {
+    "id": 71,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "\u0448\u043b\u0430\u043a\u0438",
+      "original_id": "A71"
+    },
+    "type": "node"
+  },
+  {
+    "id": 72,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "\u043a\u0438\u0441\u043b\u043e\u0442\u043d\u043e\u0441\u0442\u044c \u0448\u043b\u0430\u043a\u0430",
+      "original_id": "A72"
+    },
+    "type": "node"
+  },
+  {
+    "id": 73,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "\u043f\u043e\u043a\u0430\u0437\u0430\u0442\u0435\u043b\u044c \u043e\u0441\u043d\u043e\u0432\u043d\u043e\u0441\u0442\u0438",
+      "original_id": "A73"
+    },
+    "type": "node"
+  },
+  {
+    "id": 74,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "\u043f\u043e\u043b\u0438\u043c\u0435\u0440\u0438\u0437\u0430\u0446\u0438\u044f",
+      "original_id": "A74"
+    },
+    "type": "node"
+  },
+  {
+    "id": 75,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "\u0438\u043e\u043d\u043d\u0430\u044f \u0441\u0442\u0440\u0443\u043a\u0442\u0443\u0440\u0430 \u0448\u043b\u0430\u043a\u043e\u0432",
+      "original_id": "A75"
+    },
+    "type": "node"
+  },
+  {
+    "id": 76,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "\u0441\u0438\u0441\u0442\u0435\u043c\u0430 Fe-S",
+      "original_id": "A76"
+    },
+    "type": "node"
+  },
+  {
+    "id": 77,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "\u0441\u0438\u0441\u0442\u0435\u043c\u0430 Co-S",
+      "original_id": "A77"
+    },
+    "type": "node"
+  },
+  {
+    "id": 78,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "\u0441\u0438\u0441\u0442\u0435\u043c\u0430 Ni-S",
+      "original_id": "A78"
+    },
+    "type": "node"
+  },
+  {
+    "id": 79,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "\u0441\u0438\u0441\u0442\u0435\u043c\u0430 Cu-S",
+      "original_id": "A79"
+    },
+    "type": "node"
+  },
+  {
+    "id": 80,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "\u0440\u0430\u0441\u0441\u043b\u0430\u0438\u0432\u0430\u043d\u0438\u0435 \u0440\u0430\u0441\u043f\u043b\u0430\u0432\u043e\u0432",
+      "original_id": "A80"
+    },
+    "type": "node"
+  },
+  {
+    "id": 81,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "\u043e\u0431\u043e\u0433\u0430\u0442\u0438\u0442\u0435\u043b\u044c\u043d\u0430\u044f \u0444\u0430\u0431\u0440\u0438\u043a\u0430 \u0420\u043e\u043a\u0430\u043d\u0430",
+      "original_id": "A81"
+    },
+    "type": "node"
+  },
+  {
+    "id": 82,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "\u0444\u0430\u0431\u0440\u0438\u043a\u0430 \u0427\u0438\u0431\u0443\u043b\u0443\u043c\u0430",
+      "original_id": "A82"
+    },
+    "type": "node"
+  },
+  {
+    "id": 83,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "\u0421\u043e\u043a\u043e\u043b\u043e\u0432\u0441\u043a\u043e-\u0421\u0430\u0440\u0431\u0430\u0439\u0441\u043a\u0438\u0439 \u0413\u041e\u041a",
+      "original_id": "A83"
+    },
+    "type": "node"
+  },
+  {
+    "id": 84,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "\u0437\u0430\u0432\u043e\u0434 \u041f\u0430\u043d\u0434\u0430",
+      "original_id": "A84"
+    },
+    "type": "node"
+  },
+  {
+    "id": 85,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "\u043a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u044b \u043f\u043e\u043b\u0438\u043c\u0435\u0440\u0438\u0437\u0430\u0446\u0438\u0438",
+      "original_id": "A85"
+    },
+    "type": "node"
+  },
+  {
+    "id": 86,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "\u0430\u043d\u0438\u043e\u043d\u043d\u044b\u0435 \u043a\u043e\u043c\u043f\u043b\u0435\u043a\u0441\u044b",
+      "original_id": "A86"
+    },
+    "type": "node"
+  },
+  {
+    "id": 87,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "\u0441\u0435\u0442\u043a\u043e\u043e\u0431\u0440\u0430\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u0438",
+      "original_id": "A87"
+    },
+    "type": "node"
+  },
+  {
+    "id": 88,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "\u043c\u043e\u0434\u0438\u0444\u0438\u043a\u0430\u0442\u043e\u0440\u044b",
+      "original_id": "A88"
+    },
+    "type": "node"
+  },
+  {
+    "id": 89,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "\u041a\u0421\u0410",
+      "original_id": "A89"
+    },
+    "type": "node"
+  },
+  {
+    "id": 90,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "\u0441\u0443\u043b\u044c\u0444\u0438\u0434 \u043d\u0430\u0442\u0440\u0438\u044f",
+      "original_id": "A90"
+    },
+    "type": "node"
+  },
+  {
+    "id": 201,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "\u0441\u0443\u043b\u044c\u0444\u0430\u0442\u0438\u0437\u0438\u0440\u0443\u044e\u0449\u0438\u0439 \u043e\u0431\u0436\u0438\u0433",
+      "original_id": "A201"
+    },
+    "type": "node"
+  },
+  {
+    "id": 202,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "\u043f\u0435\u0447\u044c \u043a\u0438\u043f\u044f\u0449\u0435\u0433\u043e \u0441\u043b\u043e\u044f",
+      "original_id": "A202"
+    },
+    "type": "node"
+  },
+  {
+    "id": 203,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "\u043f\u0438\u0440\u0438\u0442\u043d\u044b\u0439 \u043a\u043e\u043d\u0446\u0435\u043d\u0442\u0440\u0430\u0442",
+      "original_id": "A203"
+    },
+    "type": "node"
+  },
+  {
+    "id": 204,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "\u0441\u0443\u043b\u044c\u0444\u0430\u0442 \u043a\u043e\u0431\u0430\u043b\u044c\u0442\u0430",
+      "original_id": "A204"
+    },
+    "type": "node"
+  },
+  {
+    "id": 205,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "\u0432\u043e\u0434\u043d\u043e\u0435 \u0432\u044b\u0449\u0435\u043b\u0430\u0447\u0438\u0432\u0430\u043d\u0438\u0435",
+      "original_id": "A205"
+    },
+    "type": "node"
+  },
+  {
+    "id": 206,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "\u0436\u0435\u043b\u0435\u0437\u043d\u044b\u0439 \u043a\u0435\u043a",
+      "original_id": "A206"
+    },
+    "type": "node"
+  },
+  {
+    "id": 207,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "\u0441\u0443\u043b\u044c\u0444\u0430\u0442 \u043d\u0430\u0442\u0440\u0438\u044f",
+      "original_id": "A207"
+    },
+    "type": "node"
+  },
+  {
+    "id": 208,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "\u0434\u0435\u0441\u0443\u043b\u044c\u0444\u0443\u0440\u0438\u0437\u0430\u0446\u0438\u044f",
+      "original_id": "A208"
+    },
+    "type": "node"
+  },
+  {
+    "id": 209,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "\u0442\u0435\u0440\u043c\u0438\u0447\u0435\u0441\u043a\u0430\u044f \u0434\u0438\u0441\u0441\u043e\u0446\u0438\u0430\u0446\u0438\u044f",
+      "original_id": "A209"
+    },
+    "type": "node"
+  },
+  {
+    "id": 210,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "\u0441\u043e\u043a\u043e\u043b\u043e\u0432\u0441\u043a\u043e-\u0441\u043e\u0440\u0431\u0430\u0439\u0441\u043a\u0438\u0435 \u043a\u043e\u043d\u0446\u0435\u043d\u0442\u0440\u0430\u0442\u044b",
+      "original_id": "A210"
+    },
+    "type": "node"
+  },
+  {
+    "id": 211,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "\u043f\u0440\u043e\u0446\u0435\u0441\u0441 \u041a\u0430\u0440\u043e\u043d\u0430",
+      "original_id": "A211"
+    },
+    "type": "node"
+  },
+  {
+    "id": 212,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "\u0432\u043e\u0441\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0439 \u043e\u0431\u0436\u0438\u0433",
+      "original_id": "A212"
+    },
+    "type": "node"
+  },
+  {
+    "id": 213,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "\u043c\u043d\u043e\u0433\u043e\u043f\u043e\u0434\u043e\u0432\u0430\u044f \u043f\u0435\u0447\u044c",
+      "original_id": "A213"
+    },
+    "type": "node"
+  },
+  {
+    "id": 214,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "\u0434\u0432\u0443\u0445\u043a\u0430\u043c\u0435\u0440\u043d\u0430\u044f \u043f\u0435\u0447\u044c",
+      "original_id": "A214"
+    },
+    "type": "node"
+  },
+  {
+    "id": 215,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "\u0430\u043c\u043c\u0438\u0430\u0447\u043d\u043e-\u043a\u0430\u0440\u0431\u043e\u043d\u0430\u0442\u043d\u043e\u0435 \u0432\u044b\u0449\u0435\u043b\u0430\u0447\u0438\u0432\u0430\u043d\u0438\u0435",
+      "original_id": "A215"
+    },
+    "type": "node"
+  },
+  {
+    "id": 216,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "\u043b\u0438\u043c\u043e\u043d\u0438\u0442\u043e\u0432\u0430\u044f \u0440\u0443\u0434\u0430",
+      "original_id": "A216"
+    },
+    "type": "node"
+  },
+  {
+    "id": 217,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "\u0441\u0435\u0440\u043f\u0435\u043d\u0442\u0438\u043d\u0438\u0442\u043e\u0432\u0430\u044f \u0440\u0443\u0434\u0430",
+      "original_id": "A217"
+    },
+    "type": "node"
+  },
+  {
+    "id": 218,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "\u0441\u0443\u043b\u044c\u0444\u0430\u0442\u043e\u0445\u043b\u043e\u0440\u0438\u0440\u0443\u044e\u0449\u0438\u0439 \u043e\u0431\u0436\u0438\u0433",
+      "original_id": "A218"
+    },
+    "type": "node"
+  },
+  {
+    "id": 219,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "\u043f\u044b\u0448\u0438\u043d\u0441\u043a\u0438\u0435 \u043f\u0438\u0440\u0438\u0442\u043d\u043e-\u043a\u043e\u0431\u0430\u043b\u044c\u0442\u043e\u0432\u044b\u0435 \u043a\u043e\u043d\u0446\u0435\u043d\u0442\u0440\u0430\u0442\u044b",
+      "original_id": "A219"
+    },
+    "type": "node"
+  },
+  {
+    "id": 220,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "\u0437\u0430\u0432\u043e\u0434 \u0432 \u041d\u0438\u043a\u0430\u0440\u043e",
+      "original_id": "A220"
+    },
+    "type": "node"
+  },
+  {
+    "id": 221,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "\u0441\u0443\u043b\u044c\u0444\u0430\u0442\u0438\u0437\u0438\u0440\u0443\u044e\u0449\u0438\u0439 \u043e\u0431\u0436\u0438\u0433 \u0432 \u043a\u0438\u043f\u044f\u0449\u0435\u043c \u0441\u043b\u043e\u0435",
+      "original_id": "A221"
+    },
+    "type": "node"
+  },
+  {
+    "id": 223,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "\u0437\u0430\u0432\u043e\u0434 \u0432 \u041a\u043e\u043a\u043a\u043e\u043b\u0430",
+      "original_id": "A223"
+    },
+    "type": "node"
+  },
+  {
+    "id": 224,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "\u0447\u0435\u0442\u044b\u0440\u0435\u0445\u0441\u0435\u043a\u0446\u0438\u043e\u043d\u043d\u0430\u044f \u043f\u0435\u0447\u044c \u041a\u0421",
+      "original_id": "A224"
+    },
+    "type": "node"
+  },
+  {
+    "id": 226,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "\u0436\u0435\u043b\u0435\u0437\u043d\u044b\u0439 \u043a\u043e\u043d\u0446\u0435\u043d\u0442\u0440\u0430\u0442",
+      "original_id": "A226"
+    },
+    "type": "node"
+  },
+  {
+    "id": 227,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "\u0430\u0444\u0440\u0438\u043a\u0430\u043d\u0441\u043a\u0438\u0435 \u0437\u0430\u0432\u043e\u0434\u044b",
+      "original_id": "A227"
+    },
+    "type": "node"
+  },
+  {
+    "id": 228,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "\u0437\u0430\u0432\u043e\u0434 \"\u0428\u0438\u0442\u0443\u0440\u0443\"",
+      "original_id": "A228"
+    },
+    "type": "node"
+  },
+  {
+    "id": 229,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "\u0445\u043b\u043e\u0440\u0438\u0434\u043e\u0432\u043e\u0437\u0433\u043e\u043d\u043a\u0430",
+      "original_id": "A229"
+    },
+    "type": "node"
+  },
+  {
+    "id": 230,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "\u0445\u043b\u043e\u0440\u0438\u0441\u0442\u044b\u0439 \u0432\u043e\u0434\u043e\u0440\u043e\u0434",
+      "original_id": "A230"
+    },
+    "type": "node"
+  },
+  {
+    "id": 231,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "\u0441\u0435\u0433\u0440\u0435\u0433\u0430\u0446\u0438\u043e\u043d\u043d\u044b\u0439 \u043e\u0431\u0436\u0438\u0433",
+      "original_id": "A231"
+    },
+    "type": "node"
+  },
+  {
+    "id": 232,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "\u043f\u0440\u043e\u0446\u0435\u0441\u0441 \u0421\u041e\u0424",
+      "original_id": "A232"
+    },
+    "type": "node"
+  },
+  {
+    "id": 233,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "\u0442\u0443\u0432\u0438\u043d\u0441\u043a\u043e\u0435 \u043a\u043e\u0431\u0430\u043b\u044c\u0442\u043e\u043c\u044b\u0448\u044c\u044f\u043a\u043e\u0432\u043e\u0435 \u0441\u044b\u0440\u044c\u0435",
+      "original_id": "A233"
+    },
+    "type": "node"
+  },
+  {
+    "id": 234,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "\u0433\u0438\u043f\u043e\u0445\u043b\u043e\u0440\u0438\u0442\u043d\u0430\u044f \u0441\u0445\u0435\u043c\u0430",
+      "original_id": "A234"
+    },
+    "type": "node"
+  },
+  {
+    "id": 236,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "\u043f\u0435\u0447\u044c \u041a\u0443\u043b\u044c\u043c\u0430\u043d\u0430",
+      "original_id": "A236"
+    },
+    "type": "node"
+  },
+  {
+    "id": 237,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "\u043e\u0433\u043d\u0435\u0432\u043e\u0439 \u043a\u043e\u0431\u0430\u043b\u044c\u0442",
+      "original_id": "A237"
+    },
+    "type": "node"
+  },
+  {
+    "id": 238,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "\u044d\u043b\u0435\u043a\u0442\u0440\u043e\u043b\u0438\u0442\u043d\u044b\u0439 \u043a\u043e\u0431\u0430\u043b\u044c\u0442",
+      "original_id": "A238"
+    },
+    "type": "node"
+  },
+  {
+    "id": 239,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "\u0423\u0444\u0430\u043b\u0435\u0439\u0441\u043a\u0438\u0439 \u043d\u0438\u043a\u0435\u043b\u0435\u0432\u044b\u0439 \u0437\u0430\u0432\u043e\u0434",
+      "original_id": "A239"
+    },
+    "type": "node"
+  },
+  {
+    "id": 240,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "\u042e\u0436\u0443\u0440\u0430\u043b\u043d\u0438\u043a\u0435\u043b\u044c",
+      "original_id": "A240"
+    },
+    "type": "node"
+  },
+  {
+    "id": 91,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "\u0448\u043b\u0430\u043a",
+      "original_id": "A91"
+    },
+    "type": "node"
+  },
+  {
+    "id": 92,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "\u0441\u0438\u0441\u0442\u0435\u043c\u0430 FeO-SiO2",
+      "original_id": "A92"
+    },
+    "type": "node"
+  },
+  {
+    "id": 93,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "\u0441\u0438\u0441\u0442\u0435\u043c\u0430 CoO-SiO2",
+      "original_id": "A93"
+    },
+    "type": "node"
+  },
+  {
+    "id": 94,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "\u0441\u0438\u0441\u0442\u0435\u043c\u0430 NiO-SiO2",
+      "original_id": "A94"
+    },
+    "type": "node"
+  },
+  {
+    "id": 95,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "\u043e\u0440\u0442\u043e\u0441\u0438\u043b\u0438\u043a\u0430\u0442 \u043a\u043e\u0431\u0430\u043b\u044c\u0442\u0430",
+      "original_id": "A95"
+    },
+    "type": "node"
+  },
+  {
+    "id": 96,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "\u0444\u0435\u0440\u0440\u0438\u0442\u044b \u043a\u043e\u0431\u0430\u043b\u044c\u0442\u0430",
+      "original_id": "A96"
+    },
+    "type": "node"
+  },
+  {
+    "id": 97,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "\u0441\u0438\u0441\u0442\u0435\u043c\u0430 FeO-CaO-SiO2",
+      "original_id": "A97"
+    },
+    "type": "node"
+  },
+  {
+    "id": 98,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "\u0432\u044f\u0437\u043a\u043e\u0441\u0442\u044c \u0448\u043b\u0430\u043a\u043e\u0432",
+      "original_id": "A98"
+    },
+    "type": "node"
+  },
+  {
+    "id": 99,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "\u044d\u043b\u0435\u043a\u0442\u0440\u043e\u043f\u0440\u043e\u0432\u043e\u0434\u043d\u043e\u0441\u0442\u044c \u0448\u043b\u0430\u043a\u043e\u0432",
+      "original_id": "A99"
+    },
+    "type": "node"
+  },
+  {
+    "id": 100,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "\u043a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0430 \u0440\u0430\u0432\u043d\u043e\u0432\u0435\u0441\u0438\u044f",
+      "original_id": "A100"
+    },
+    "type": "node"
+  },
+  {
+    "id": 101,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "\u0440\u0430\u0441\u043f\u0440\u0435\u0434\u0435\u043b\u0435\u043d\u0438\u0435 \u043a\u043e\u0431\u0430\u043b\u044c\u0442\u0430",
+      "original_id": "A101"
+    },
+    "type": "node"
+  },
+  {
+    "id": 102,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "\u0440\u0430\u0441\u043f\u0440\u0435\u0434\u0435\u043b\u0435\u043d\u0438\u0435 \u043d\u0438\u043a\u0435\u043b\u044f",
+      "original_id": "A102"
+    },
+    "type": "node"
+  },
+  {
+    "id": 103,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "\u0441\u0443\u043b\u044c\u0444\u0438\u0434\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435",
+      "original_id": "A103"
+    },
+    "type": "node"
+  },
+  {
+    "id": 104,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "\u0448\u043f\u0435\u0439\u0437\u0430",
+      "original_id": "A104"
+    },
+    "type": "node"
+  },
+  {
+    "id": 105,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "\u0444\u043e\u0441\u0444\u0438\u0434\u043d\u044b\u0439 \u0441\u043f\u043b\u0430\u0432",
+      "original_id": "A105"
+    },
+    "type": "node"
+  },
+  {
+    "id": 106,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "\u043c\u0435\u0442\u0430\u043b\u043b\u0438\u0437\u0430\u0446\u0438\u044f \u0448\u0442\u0435\u0439\u043d\u0430",
+      "original_id": "A106"
+    },
+    "type": "node"
+  },
+  {
+    "id": 107,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "\u0437\u0430\u043a\u043e\u043d \u0434\u0435\u0439\u0441\u0442\u0432\u0443\u044e\u0449\u0438\u0445 \u043c\u0430\u0441\u0441",
+      "original_id": "A107"
+    },
+    "type": "node"
+  },
+  {
+    "id": 108,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "\u0440\u0430\u0441\u0442\u0432\u043e\u0440\u0438\u043c\u043e\u0441\u0442\u044c \u0441\u0443\u043b\u044c\u0444\u0438\u0434\u043e\u0432",
+      "original_id": "A108"
+    },
+    "type": "node"
+  },
+  {
+    "id": 109,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "\u043f\u0430\u0440\u0446\u0438\u0430\u043b\u044c\u043d\u043e\u0435 \u0434\u0430\u0432\u043b\u0435\u043d\u0438\u0435 \u043a\u0438\u0441\u043b\u043e\u0440\u043e\u0434\u0430",
+      "original_id": "A109"
+    },
+    "type": "node"
+  },
+  {
+    "id": 110,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "\u043e\u043a\u0441\u0438\u0434\u043d\u0430\u044f \u0444\u043e\u0440\u043c\u0430 \u043d\u0438\u043a\u0435\u043b\u044f",
+      "original_id": "A110"
+    },
+    "type": "node"
+  },
+  {
+    "id": 161,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "\u0430\u0432\u0442\u043e\u0433\u0435\u043d\u043d\u0430\u044f \u043f\u043b\u0430\u0432\u043a\u0430 \u0432\u043e \u0432\u0437\u0432\u0435\u0448\u0435\u043d\u043d\u043e\u043c \u0441\u043e\u0441\u0442\u043e\u044f\u043d\u0438\u0438",
+      "original_id": "A161"
+    },
+    "type": "node"
+  },
+  {
+    "id": 162,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "\u041d\u0430\u0434\u0435\u0436\u0434\u0438\u043d\u0441\u043a\u0438\u0439 \u043c\u0435\u0442\u0430\u043b\u043b\u0443\u0440\u0433\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u0437\u0430\u0432\u043e\u0434",
+      "original_id": "A162"
+    },
+    "type": "node"
+  },
+  {
+    "id": 163,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "\u043f\u0435\u0447\u044c \u0432\u0437\u0432\u0435\u0448\u0435\u043d\u043d\u043e\u0439 \u043f\u043b\u0430\u0432\u043a\u0438",
+      "original_id": "A163"
+    },
+    "type": "node"
+  },
+  {
+    "id": 164,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "\u043e\u0431\u0435\u0434\u043d\u0438\u0442\u0435\u043b\u044c\u043d\u0430\u044f \u044d\u043b\u0435\u043a\u0442\u0440\u043e\u043f\u0435\u0447\u044c",
+      "original_id": "A164"
+    },
+    "type": "node"
+  },
+  {
+    "id": 165,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "\u0437\u0430\u0432\u043e\u0434 \"\u0425\u0430\u0440\u044c\u044f\u0432\u0430\u043b\u0442\u0430\"",
+      "original_id": "A165"
+    },
+    "type": "node"
+  },
+  {
+    "id": 166,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "\u043a\u0438\u0441\u043b\u043e\u0440\u043e\u0434\u043d\u043e-\u0444\u0430\u043a\u0435\u043b\u044c\u043d\u0430\u044f \u043f\u043b\u0430\u0432\u043a\u0430",
+      "original_id": "A166"
+    },
+    "type": "node"
+  },
+  {
+    "id": 167,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "\u0444\u0435\u0440\u0440\u0438\u0442-\u043a\u0430\u043b\u044c\u0446\u0438\u0435\u0432\u044b\u0439 \u0448\u043b\u0430\u043a",
+      "original_id": "A167"
+    },
+    "type": "node"
+  },
+  {
+    "id": 168,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "\u0441\u043f\u043e\u0441\u043e\u0431 \u0410.\u0412. \u0412\u0430\u043d\u044e\u043a\u043e\u0432\u0430",
+      "original_id": "A168"
+    },
+    "type": "node"
+  },
+  {
+    "id": 169,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "\u0430\u0432\u0442\u043e\u0433\u0435\u043d\u043d\u0430\u044f \u0448\u0430\u0445\u0442\u043d\u0430\u044f \u043f\u043b\u0430\u0432\u043a\u0430",
+      "original_id": "A169"
+    },
+    "type": "node"
+  },
+  {
+    "id": 170,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "\u0448\u0430\u0445\u0442\u043d\u0430\u044f \u043f\u043b\u0430\u0432\u043a\u0430 \u043a\u043e\u043d\u0432\u0435\u0440\u0442\u0435\u0440\u043d\u044b\u0445 \u0448\u043b\u0430\u043a\u043e\u0432",
+      "original_id": "A170"
+    },
+    "type": "node"
+  },
+  {
+    "id": 171,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "\u043f\u0440\u043e\u0446\u0435\u0441\u0441 \u043e\u0431\u0435\u0434\u043d\u0435\u043d\u0438\u044f",
+      "original_id": "A171"
+    },
+    "type": "node"
+  },
+  {
+    "id": 172,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "\u043a\u043e\u043d\u0432\u0435\u0440\u0442\u0435\u0440",
+      "original_id": "A172"
+    },
+    "type": "node"
+  },
+  {
+    "id": 173,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "\u043d\u0438\u043a\u0435\u043b\u0435\u0432\u044b\u0439 \u0448\u0442\u0435\u0439\u043d",
+      "original_id": "A173"
+    },
+    "type": "node"
+  },
+  {
+    "id": 174,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "\u043e\u0431\u043e\u0433\u0430\u0449\u0435\u043d\u043d\u044b\u0439 \u0448\u0442\u0435\u0439\u043d",
+      "original_id": "A174"
+    },
+    "type": "node"
+  },
+  {
+    "id": 175,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "\u0430\u0432\u0442\u043e\u043a\u043b\u0430\u0432\u043d\u0430\u044f \u043c\u0430\u0441\u0441\u0430",
+      "original_id": "A175"
+    },
+    "type": "node"
+  },
+  {
+    "id": 176,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "\u044d\u043b\u0435\u043a\u0442\u0440\u043e\u043f\u0435\u0447\u043d\u043e\u0435 \u043e\u0442\u0434\u0435\u043b\u0435\u043d\u0438\u0435",
+      "original_id": "A176"
+    },
+    "type": "node"
+  },
+  {
+    "id": 177,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "\u0447\u0435\u0440\u043d\u044b\u0439 \u0448\u043b\u0430\u043a",
+      "original_id": "A177"
+    },
+    "type": "node"
+  },
+  {
+    "id": 178,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "\u0431\u0435\u043b\u044b\u0439 \u0448\u043b\u0430\u043a",
+      "original_id": "A178"
+    },
+    "type": "node"
+  },
+  {
+    "id": 179,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "\u043a\u0430\u0440\u0431\u0438\u0434 \u043a\u0430\u043b\u044c\u0446\u0438\u044f",
+      "original_id": "A179"
+    },
+    "type": "node"
+  },
+  {
+    "id": 180,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "\u0444\u044c\u044e\u043c\u0438\u043d\u0433\u043e\u0432\u0430\u043d\u0438\u0435",
+      "original_id": "A180"
+    },
+    "type": "node"
+  },
+  {
+    "id": 131,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "\u043e\u043a\u0441\u0438\u0441\u0443\u043b\u044c\u0444\u0438\u0434\u043d\u044b\u0439 \u0441\u043f\u043b\u0430\u0432",
+      "original_id": "A131"
+    },
+    "type": "node"
+  },
+  {
+    "id": 132,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "\u043d\u0438\u043a\u0435\u043b\u044c",
+      "original_id": "A132"
+    },
+    "type": "node"
+  },
+  {
+    "id": 133,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "\u043a\u043e\u0431\u0430\u043b\u044c\u0442",
+      "original_id": "A133"
+    },
+    "type": "node"
+  },
+  {
+    "id": 134,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "\u0436\u0435\u043b\u0435\u0437\u043e",
+      "original_id": "A134"
+    },
+    "type": "node"
+  },
+  {
+    "id": 135,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "\u0441\u0435\u0440\u0430",
+      "original_id": "A135"
+    },
+    "type": "node"
+  },
+  {
+    "id": 137,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "\u0448\u0442\u0435\u0439\u043d",
+      "original_id": "A137"
+    },
+    "type": "node"
+  },
+  {
+    "id": 138,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "\u043e\u043a\u0441\u0438\u0441\u0443\u043b\u044c\u0444\u0438\u0434\u043d\u044b\u0439 \u0441\u043b\u043e\u0439",
+      "original_id": "A138"
+    },
+    "type": "node"
+  },
+  {
+    "id": 139,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "\u043e\u043a\u0441\u0438\u0434 \u043a\u0430\u043b\u044c\u0446\u0438\u044f",
+      "original_id": "A139"
+    },
+    "type": "node"
+  },
+  {
+    "id": 140,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "\u0434\u0438\u043e\u043a\u0441\u0438\u0434 \u043a\u0440\u0435\u043c\u043d\u0438\u044f",
+      "original_id": "A140"
+    },
+    "type": "node"
+  },
+  {
+    "id": 141,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "\u044f\u0434\u0435\u0440\u043d\u0430\u044f \u0433\u0430\u043c\u043c\u0430-\u0440\u0435\u0437\u043e\u043d\u0430\u043d\u0441\u043d\u0430\u044f \u0441\u043f\u0435\u043a\u0442\u0440\u043e\u0441\u043a\u043e\u043f\u0438\u044f",
+      "original_id": "A141"
+    },
+    "type": "node"
+  },
+  {
+    "id": 142,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "FeS",
+      "original_id": "A142"
+    },
+    "type": "node"
+  },
+  {
+    "id": 143,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "FeO",
+      "original_id": "A143"
+    },
+    "type": "node"
+  },
+  {
+    "id": 144,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "Fe0",
+      "original_id": "A144"
+    },
+    "type": "node"
+  },
+  {
+    "id": 145,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "FeSO\u0432\u0442\u043e\u0440\u0438\u0447\u043d\u044b\u0439",
+      "original_id": "A145"
+    },
+    "type": "node"
+  },
+  {
+    "id": 146,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "CaFeSiO",
+      "original_id": "A146"
+    },
+    "type": "node"
+  },
+  {
+    "id": 147,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "\u03b1-Fe",
+      "original_id": "A147"
+    },
+    "type": "node"
+  },
+  {
+    "id": 148,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "\u0442\u0432\u0435\u0440\u0434\u044b\u0439 \u0440\u0430\u0441\u0442\u0432\u043e\u0440 FeS\u2014FeO",
+      "original_id": "A148"
+    },
+    "type": "node"
+  },
+  {
+    "id": 149,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "\u0436\u0435\u043b\u0435\u0437\u043e\u043a\u0430\u043b\u044c\u0446\u0438\u0435\u0432\u044b\u0439 \u043e\u0440\u0442\u043e\u0441\u0438\u043b\u0438\u043a\u0430\u0442",
+      "original_id": "A149"
+    },
+    "type": "node"
+  },
+  {
+    "id": 150,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "\u0432\u044e\u0440\u0437\u0438\u0442\u043d\u0430\u044f \u0444\u0430\u0437\u0430",
+      "original_id": "A150"
+    },
+    "type": "node"
+  },
+  {
+    "id": 151,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "\u0441\u0438\u043b\u0438\u043a\u0430\u0442\u043d\u0430\u044f \u0444\u0430\u0437\u0430",
+      "original_id": "A151"
+    },
+    "type": "node"
+  },
+  {
+    "id": 152,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "\u0441\u0443\u043b\u044c\u0444\u0438\u0434\u043d\u0430\u044f \u0444\u0430\u0437\u0430",
+      "original_id": "A152"
+    },
+    "type": "node"
+  },
+  {
+    "id": 153,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "\u043c\u0435\u0442\u0430\u043b\u043b\u0438\u0447\u0435\u0441\u043a\u0430\u044f \u0444\u0430\u0437\u0430",
+      "original_id": "A153"
+    },
+    "type": "node"
+  },
+  {
+    "id": 154,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "\u0444\u0435\u0440\u0440\u043e\u043d\u0438\u043a\u0435\u043b\u044c",
+      "original_id": "A154"
+    },
+    "type": "node"
+  },
+  {
+    "id": 155,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "\u043a\u043e\u043d\u0432\u0435\u0440\u0442\u0435\u0440\u043d\u044b\u0439 \u0448\u043b\u0430\u043a",
+      "original_id": "A155"
+    },
+    "type": "node"
+  },
+  {
+    "id": 157,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "\u0432\u043e\u0441\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u0435\u043b\u044c\u043d\u0430\u044f \u043f\u043b\u0430\u0432\u043a\u0430",
+      "original_id": "A157"
+    },
+    "type": "node"
+  },
+  {
+    "id": 158,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "\u0430\u0432\u0442\u043e\u0433\u0435\u043d\u043d\u0430\u044f \u043f\u043b\u0430\u0432\u043a\u0430",
+      "original_id": "A158"
+    },
+    "type": "node"
+  },
+  {
+    "id": 159,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "\u0448\u0430\u0445\u0442\u043d\u0430\u044f \u043f\u043b\u0430\u0432\u043a\u0430",
+      "original_id": "A159"
+    },
+    "type": "node"
+  },
+  {
+    "id": 160,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "\u044d\u043b\u0435\u043a\u0442\u0440\u043e\u043f\u043b\u0430\u0432\u043a\u0430",
+      "original_id": "A160"
+    },
+    "type": "node"
+  },
+  {
+    "id": 2,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "\u0441\u043f\u043b\u0430\u0432\u044b \u043a\u043e\u0431\u0430\u043b\u044c\u0442\u0430",
+      "original_id": "A2"
+    },
+    "type": "node"
+  },
+  {
+    "id": 3,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "\u0441\u043e\u0435\u0434\u0438\u043d\u0435\u043d\u0438\u044f \u043a\u043e\u0431\u0430\u043b\u044c\u0442\u0430",
+      "original_id": "A3"
+    },
+    "type": "node"
+  },
+  {
+    "id": 4,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "\u0432\u043e\u0435\u043d\u043d\u043e-\u043f\u0440\u043e\u043c\u044b\u0448\u043b\u0435\u043d\u043d\u044b\u0439 \u043a\u043e\u043c\u043f\u043b\u0435\u043a\u0441 \u0421\u0421\u0421\u0420",
+      "original_id": "A4"
+    },
+    "type": "node"
+  },
+  {
+    "id": 5,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "\u043a\u0430\u0442\u0430\u043b\u0438\u0437\u0430\u0442\u043e\u0440\u044b",
+      "original_id": "A5"
+    },
+    "type": "node"
+  },
+  {
+    "id": 6,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "\u043a\u0440\u0430\u0441\u0438\u0442\u0435\u043b\u0438",
+      "original_id": "A6"
+    },
+    "type": "node"
+  },
+  {
+    "id": 7,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "\u043f\u0438\u0433\u043c\u0435\u043d\u0442\u044b",
+      "original_id": "A7"
+    },
+    "type": "node"
+  },
+  {
+    "id": 8,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "\u043c\u0430\u0433\u043d\u0438\u0442\u044b",
+      "original_id": "A8"
+    },
+    "type": "node"
+  },
+  {
+    "id": 9,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "\u0420\u043e\u0441\u0441\u0438\u044f",
+      "original_id": "A9"
+    },
+    "type": "node"
+  },
+  {
+    "id": 10,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "\u0423\u0444\u0430\u043b\u0435\u0439\u0441\u043a\u0438\u0439 \u043d\u0438\u043a\u0435\u043b\u0435\u0432\u044b\u0439 \u043a\u043e\u043c\u0431\u0438\u043d\u0430\u0442",
+      "original_id": "A10"
+    },
+    "type": "node"
+  },
+  {
+    "id": 11,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "\u043a\u043e\u043c\u0431\u0438\u043d\u0430\u0442 \u00ab\u0421\u0435\u0432\u0435\u0440\u043e\u043d\u0438\u043a\u0435\u043b\u044c\u00bb",
+      "original_id": "A11"
+    },
+    "type": "node"
+  },
+  {
+    "id": 12,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "\u041d\u043e\u0440\u0438\u043b\u044c\u0441\u043a\u0438\u0439 \u0433\u043e\u0440\u043d\u043e-\u043c\u0435\u0442\u0430\u043b\u043b\u0443\u0440\u0433\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u043a\u043e\u043c\u0431\u0438\u043d\u0430\u0442",
+      "original_id": "A12"
+    },
+    "type": "node"
+  },
+  {
+    "id": 13,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "\u0414\u0430\u0448\u043a\u0435\u0441\u0430\u043d\u0441\u043a\u043e\u0435 \u043c\u0435\u0441\u0442\u043e\u0440\u043e\u0436\u0434\u0435\u043d\u0438\u0435",
+      "original_id": "A13"
+    },
+    "type": "node"
+  },
+  {
+    "id": 14,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "\u0413\u0435\u043e\u0440\u0433 \u0411\u0440\u0430\u043d\u0434\u0442",
+      "original_id": "A14"
+    },
+    "type": "node"
+  },
+  {
+    "id": 15,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "\u0410\u043d\u0442\u0443\u0430\u043d \u041b\u0430\u0432\u0443\u0430\u0437\u044c\u0435",
+      "original_id": "A15"
+    },
+    "type": "node"
+  },
+  {
+    "id": 16,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "\u0436\u0435\u043b\u0435\u0437\u043e\u043c\u0430\u0440\u0433\u0430\u043d\u0446\u0435\u0432\u044b\u0435 \u043a\u043e\u043d\u043a\u0440\u0435\u0446\u0438\u0438",
+      "original_id": "A16"
+    },
+    "type": "node"
+  },
+  {
+    "id": 17,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "\u041c\u0438\u0440\u043e\u0432\u043e\u0439 \u043e\u043a\u0435\u0430\u043d",
+      "original_id": "A17"
+    },
+    "type": "node"
+  },
+  {
+    "id": 18,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "\u0432\u0438\u0442\u0430\u043c\u0438\u043d B12",
+      "original_id": "A18"
+    },
+    "type": "node"
+  },
+  {
+    "id": 19,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "\u043a\u043e\u0431\u0430\u043b\u044c\u0442-60",
+      "original_id": "A19"
+    },
+    "type": "node"
+  },
+  {
+    "id": 20,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "\u0442\u0432\u0435\u0440\u0434\u044b\u0435 \u0441\u043f\u043b\u0430\u0432\u044b",
+      "original_id": "A20"
+    },
+    "type": "node"
+  },
+  {
+    "id": 21,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "\u043c\u043e\u043d\u043e\u0433\u0440\u0430\u0444\u0438\u044f",
+      "original_id": "A21"
+    },
+    "type": "node"
+  },
+  {
+    "id": 22,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "\u043c\u0435\u0442\u0430\u043b\u043b\u0443\u0440\u0433\u0438\u044f \u043a\u043e\u0431\u0430\u043b\u044c\u0442\u0430",
+      "original_id": "A22"
+    },
+    "type": "node"
+  },
+  {
+    "id": 23,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "\u0441\u0442\u0435\u043a\u043b\u043e \u0438 \u0433\u043b\u0430\u0437\u0443\u0440\u044c \u0441\u0438\u043d\u0435\u0433\u043e \u0446\u0432\u0435\u0442\u0430",
+      "original_id": "A23"
+    },
+    "type": "node"
+  },
+  {
+    "id": 24,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "\u043a\u043e\u0431\u0430\u043b\u044c\u0442\u043e\u0432\u044b\u0435 \u043a\u0440\u0430\u0441\u043a\u0438",
+      "original_id": "A24"
+    },
+    "type": "node"
+  },
+  {
+    "id": 25,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "\u0437\u0430\u0444\u0444\u0430\u0440",
+      "original_id": "A25"
+    },
+    "type": "node"
+  },
+  {
+    "id": 26,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "\u0441\u0430\u0444\u0444\u043b\u043e\u0440\u0438\u0442",
+      "original_id": "A26"
+    },
+    "type": "node"
+  },
+  {
+    "id": 27,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "\u041a\u043e\u0431\u043e\u043b\u044c\u0434",
+      "original_id": "A27"
+    },
+    "type": "node"
+  },
+  {
+    "id": 28,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "\u041d\u043e\u0432\u0430\u044f \u041a\u0430\u043b\u0435\u0434\u043e\u043d\u0438\u044f",
+      "original_id": "A28"
+    },
+    "type": "node"
+  },
+  {
+    "id": 29,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "\u041e\u043d\u0442\u0430\u0440\u0438\u043e",
+      "original_id": "A29"
+    },
+    "type": "node"
+  },
+  {
+    "id": 30,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "\u0411\u0440\u0430\u0442\u044c\u044f \u0421\u0438\u043c\u0435\u043d\u0441",
+      "original_id": "A30"
+    },
+    "type": "node"
+  },
+  {
+    "id": 32,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "\u0440\u0443\u0434\u043d\u044b\u0435 \u043a\u043e\u0440\u043a\u0438",
+      "original_id": "A32"
+    },
+    "type": "node"
+  },
+  {
+    "id": 34,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "\u0422\u0438\u0445\u0438\u0439 \u043e\u043a\u0435\u0430\u043d",
+      "original_id": "A34"
+    },
+    "type": "node"
+  },
+  {
+    "id": 35,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "\u043f\u0438\u0440\u0438\u0442",
+      "original_id": "A35"
+    },
+    "type": "node"
+  },
+  {
+    "id": 36,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "\u043f\u0438\u0440\u0440\u043e\u0442\u0438\u043d",
+      "original_id": "A36"
+    },
+    "type": "node"
+  },
+  {
+    "id": 37,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "\u0445\u0430\u043b\u044c\u043a\u043e\u043f\u0438\u0440\u0438\u0442",
+      "original_id": "A37"
+    },
+    "type": "node"
+  },
+  {
+    "id": 39,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "\u043f\u043e\u0434\u0432\u043e\u0434\u043d\u044b\u0435 \u0433\u043e\u0440\u044b",
+      "original_id": "A39"
+    },
+    "type": "node"
+  },
+  {
+    "id": 40,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "\u0413\u0430\u0432\u0430\u0439\u0441\u043a\u0438\u0435 \u043e\u0441\u0442\u0440\u043e\u0432\u0430",
+      "original_id": "A40"
+    },
+    "type": "node"
+  },
+  {
+    "id": 41,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "\u043f\u043b\u0430\u0442\u0438\u043d\u0430",
+      "original_id": "A41"
+    },
+    "type": "node"
+  },
+  {
+    "id": 42,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "\u043a\u043e\u0440\u0430 \u0432\u044b\u0432\u0435\u0442\u0440\u0438\u0432\u0430\u043d\u0438\u044f",
+      "original_id": "A42"
+    },
+    "type": "node"
+  },
+  {
+    "id": 43,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "\u043b\u0430\u0442\u0435\u0440\u0438\u0442",
+      "original_id": "A43"
+    },
+    "type": "node"
+  },
+  {
+    "id": 44,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "\u043c\u0435\u0441\u0442\u043e\u0440\u043e\u0436\u0434\u0435\u043d\u0438\u0435 \u041c\u043e\u0430",
+      "original_id": "A44"
+    },
+    "type": "node"
+  },
+  {
+    "id": 45,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "\u043c\u0430\u0433\u043d\u0435\u0442\u0438\u0442",
+      "original_id": "A45"
+    },
+    "type": "node"
+  },
+  {
+    "id": 46,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "\u043c\u0430\u0433\u0433\u0435\u043c\u0438\u0442",
+      "original_id": "A46"
+    },
+    "type": "node"
+  },
+  {
+    "id": 47,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "\u041d\u043e\u0440\u0438\u043b\u044c\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+      "original_id": "A47"
+    },
+    "type": "node"
+  },
+  {
+    "id": 48,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "\u0422\u0430\u043b\u043d\u0430\u0445\u0441\u043a\u043e\u0435 \u043c\u0435\u0441\u0442\u043e\u0440\u043e\u0436\u0434\u0435\u043d\u0438\u0435",
+      "original_id": "A48"
+    },
+    "type": "node"
+  },
+  {
+    "id": 49,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "\u041e\u043a\u0442\u044f\u0431\u0440\u044c\u0441\u043a\u043e\u0435 \u043c\u0435\u0441\u0442\u043e\u0440\u043e\u0436\u0434\u0435\u043d\u0438\u0435",
+      "original_id": "A49"
+    },
+    "type": "node"
+  },
+  {
+    "id": 50,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "\u041a\u043e\u043b\u044c\u0441\u043a\u0438\u0439 \u043f\u043e\u043b\u0443\u043e\u0441\u0442\u0440\u043e\u0432",
+      "original_id": "A50"
+    },
+    "type": "node"
+  },
+  {
+    "id": 51,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "\u041f\u0435\u0447\u0435\u043d\u0433\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+      "original_id": "A51"
+    },
+    "type": "node"
+  },
+  {
+    "id": 52,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "\u0415\u043b\u0430\u043d\u044c\u0441\u043a\u043e\u0435 \u043c\u0435\u0441\u0442\u043e\u0440\u043e\u0436\u0434\u0435\u043d\u0438\u0435",
+      "original_id": "A52"
+    },
+    "type": "node"
+  },
+  {
+    "id": 53,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "\u0421\u0430\u0434\u0431\u0435\u0440\u0438",
+      "original_id": "A53"
+    },
+    "type": "node"
+  },
+  {
+    "id": 54,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "\u041c\u0435\u0434\u043d\u044b\u0439 \u043f\u043e\u044f\u0441",
+      "original_id": "A54"
+    },
+    "type": "node"
+  },
+  {
+    "id": 55,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "\u0417\u0430\u0438\u0440",
+      "original_id": "A55"
+    },
+    "type": "node"
+  },
+  {
+    "id": 56,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "\u0417\u0430\u043c\u0431\u0438\u044f",
+      "original_id": "A56"
+    },
+    "type": "node"
+  },
+  {
+    "id": 57,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "\u0425\u043e\u0432\u0443\u0430\u043a\u0441\u0438\u043d\u0441\u043a\u043e\u0435 \u043c\u0435\u0441\u0442\u043e\u0440\u043e\u0436\u0434\u0435\u043d\u0438\u0435",
+      "original_id": "A57"
+    },
+    "type": "node"
+  },
+  {
+    "id": 58,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "\u0411\u043e\u0443 \u0410\u0437\u0437\u0435\u0440",
+      "original_id": "A58"
+    },
+    "type": "node"
+  },
+  {
+    "id": 60,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "\u0421\u043e\u043a\u043e\u043b\u043e\u0432\u0441\u043a\u043e-\u0421\u0430\u0440\u0431\u0430\u0439\u0441\u043a\u043e\u0435 \u043c\u0435\u0441\u0442\u043e\u0440\u043e\u0436\u0434\u0435\u043d\u0438\u0435",
+      "original_id": "A60"
+    },
+    "type": "node"
+  },
+  {
+    "id": 242,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "\u043e\u0431\u0435\u0434\u043d\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0435 \u044d\u043b\u0435\u043a\u0442\u0440\u043e\u043f\u0435\u0447\u0438",
+      "original_id": "A242"
+    },
+    "type": "node"
+  },
+  {
+    "id": 243,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "\u043a\u043e\u0431\u0430\u043b\u044c\u0442\u043e\u0432\u044b\u0439 \u0448\u0442\u0435\u0439\u043d",
+      "original_id": "A243"
+    },
+    "type": "node"
+  },
+  {
+    "id": 246,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "\u043e\u0442\u0432\u0430\u043b\u044c\u043d\u044b\u0439 \u0448\u043b\u0430\u043a",
+      "original_id": "A246"
+    },
+    "type": "node"
+  },
+  {
+    "id": 249,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "\u0433\u0438\u0434\u0440\u043e\u043c\u0435\u0442\u0430\u043b\u043b\u0443\u0440\u0433\u0438\u0447\u0435\u0441\u043a\u0430\u044f \u043f\u0435\u0440\u0435\u0440\u0430\u0431\u043e\u0442\u043a\u0430",
+      "original_id": "A249"
+    },
+    "type": "node"
+  },
+  {
+    "id": 250,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "\u043c\u044b\u0448\u044c\u044f\u043a\u0441\u043e\u0434\u0435\u0440\u0436\u0430\u0449\u0438\u0435 \u0440\u0443\u0434\u044b",
+      "original_id": "A250"
+    },
+    "type": "node"
+  },
+  {
+    "id": 253,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "\u0445\u043b\u043e\u0440\u0438\u0440\u0443\u044e\u0449\u0438\u0439 \u043e\u0431\u0436\u0438\u0433",
+      "original_id": "A253"
+    },
+    "type": "node"
+  },
+  {
+    "id": 258,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "\u043a\u043e\u0431\u0430\u043b\u044c\u0442\u0441\u043e\u0434\u0435\u0440\u0436\u0430\u0449\u0438\u0439 \u0444\u0435\u0440\u0440\u043e\u043d\u0438\u043a\u0435\u043b\u044c",
+      "original_id": "A258"
+    },
+    "type": "node"
+  },
+  {
+    "id": 259,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "\u043b\u0438\u0433\u0430\u0442\u0443\u0440\u0430",
+      "original_id": "A259"
+    },
+    "type": "node"
+  },
+  {
+    "id": 260,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "\u0430\u0432\u0442\u043e\u043a\u043b\u0430\u0432\u043d\u043e\u0435 \u0432\u044b\u0449\u0435\u043b\u0430\u0447\u0438\u0432\u0430\u043d\u0438\u0435",
+      "original_id": "A260"
+    },
+    "type": "node"
+  },
+  {
+    "id": 187,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "\u043c\u0435\u0442\u0430\u043b\u043b\u0438\u0447\u0435\u0441\u043a\u043e\u0435 \u0436\u0435\u043b\u0435\u0437\u043e",
+      "original_id": "A187"
+    },
+    "type": "node"
+  },
+  {
+    "id": 188,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "\u043a\u043e\u0431\u0430\u043b\u044c\u0442\u043e\u0432\u044b\u0439 \u0441\u043f\u043b\u0430\u0432",
+      "original_id": "A188"
+    },
+    "type": "node"
+  },
+  {
+    "id": 189,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "\u0432\u044e\u0441\u0442\u0438\u0442\u043d\u044b\u0439 \u0448\u043b\u0430\u043a",
+      "original_id": "A189"
+    },
+    "type": "node"
+  },
+  {
+    "id": 190,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "\u043e\u043a\u0441\u0438\u0441\u0443\u043b\u044c\u0444\u0438\u0434",
+      "original_id": "A190"
+    },
+    "type": "node"
+  },
+  {
+    "id": 193,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "\u043a\u043e\u043d\u0432\u0435\u0440\u0442\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435",
+      "original_id": "A193"
+    },
+    "type": "node"
+  },
+  {
+    "id": 194,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "\u0431\u0435\u0441\u0444\u043b\u044e\u0441\u043e\u0432\u0430\u044f \u043f\u0440\u043e\u0434\u0443\u0432\u043a\u0430",
+      "original_id": "A194"
+    },
+    "type": "node"
+  },
+  {
+    "id": 195,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "\u043f\u043e\u0432\u0435\u0440\u0445\u043d\u043e\u0441\u0442\u043d\u043e\u0435 \u043e\u043a\u0438\u0441\u043b\u0435\u043d\u0438\u0435",
+      "original_id": "A195"
+    },
+    "type": "node"
+  },
+  {
+    "id": 196,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "\u0443\u0440\u0430\u0432\u043d\u0435\u043d\u0438\u044f \u043c\u0430\u0442\u0435\u0440\u0438\u0430\u043b\u044c\u043d\u043e\u0433\u043e \u0431\u0430\u043b\u0430\u043d\u0441\u0430",
+      "original_id": "A196"
+    },
+    "type": "node"
+  },
+  {
+    "id": 197,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "\u0443\u0441\u043b\u043e\u0432\u043d\u044b\u0435 \u043a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u044b \u0440\u0430\u0432\u043d\u043e\u0432\u0435\u0441\u0438\u044f",
+      "original_id": "A197"
+    },
+    "type": "node"
+  },
+  {
+    "id": 200,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "\u0431\u0430\u0440\u0431\u043e\u0442\u0430\u0436 \u0448\u043b\u0430\u043a\u043e\u0432\u043e\u0439 \u0432\u0430\u043d\u043d\u044b",
+      "original_id": "A200"
+    },
+    "type": "node"
+  },
+  {
+    "id": 112,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "\u0441\u0443\u043b\u044c\u0444\u0438\u0434\u043d\u043e-\u043c\u0435\u0442\u0430\u043b\u043b\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u0441\u043f\u043b\u0430\u0432",
+      "original_id": "A112"
+    },
+    "type": "node"
+  },
+  {
+    "id": 115,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "\u043a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0430 \u0440\u0430\u0432\u043d\u043e\u0432\u0435\u0441\u0438\u044f \u041aNi/Fe",
+      "original_id": "A115"
+    },
+    "type": "node"
+  },
+  {
+    "id": 116,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "\u043a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0430 \u0440\u0430\u0432\u043d\u043e\u0432\u0435\u0441\u0438\u044f \u041aCo/Fe",
+      "original_id": "A116"
+    },
+    "type": "node"
+  },
+  {
+    "id": 117,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "\u043a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0430 \u0440\u0430\u0432\u043d\u043e\u0432\u0435\u0441\u0438\u044f \u041aCu/Fe",
+      "original_id": "A117"
+    },
+    "type": "node"
+  },
+  {
+    "id": 118,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "\u043c\u0435\u0445\u0430\u043d\u0438\u0447\u0435\u0441\u043a\u0438\u0435 \u043f\u043e\u0442\u0435\u0440\u0438",
+      "original_id": "A118"
+    },
+    "type": "node"
+  },
+  {
+    "id": 119,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "\u0440\u0430\u0441\u0442\u0432\u043e\u0440\u0435\u043d\u043d\u044b\u0435 \u043f\u043e\u0442\u0435\u0440\u0438",
+      "original_id": "A119"
+    },
+    "type": "node"
+  },
+  {
+    "id": 120,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "\u0437\u0430\u043a\u0430\u043b\u0438\u0432\u0430\u043d\u0438\u0435 \u0448\u043b\u0430\u043a\u0430",
+      "original_id": "A120"
+    },
+    "type": "node"
+  },
+  {
+    "id": 121,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "\u043c\u0438\u043a\u0440\u043e\u0440\u0435\u043d\u0442\u0433\u0435\u043d\u043e\u0441\u043f\u0435\u043a\u0442\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u0430\u043d\u0430\u043b\u0438\u0437",
+      "original_id": "A121"
+    },
+    "type": "node"
+  },
+  {
+    "id": 122,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "\u0441\u0443\u043b\u044c\u0444\u0438\u0434\u043d\u044b\u0435 \u0432\u043a\u043b\u044e\u0447\u0435\u043d\u0438\u044f",
+      "original_id": "A122"
+    },
+    "type": "node"
+  },
+  {
+    "id": 123,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "\u0432\u0442\u043e\u0440\u0438\u0447\u043d\u044b\u0435 \u0441\u0443\u043b\u044c\u0444\u0438\u0434\u043d\u044b\u0435 \u043a\u043e\u0440\u043e\u043b\u044c\u043a\u0438",
+      "original_id": "A123"
+    },
+    "type": "node"
+  },
+  {
+    "id": 124,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "\u0440\u0430\u0432\u043d\u043e\u0432\u0435\u0441\u0438\u0435 \u043e\u0431\u043c\u0435\u043d\u043d\u044b\u0445 \u0440\u0435\u0430\u043a\u0446\u0438\u0439",
+      "original_id": "A124"
+    },
+    "type": "node"
+  },
+  {
+    "id": 126,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "\u0441\u0443\u043b\u044c\u0444\u0438\u0434\u043d\u0430\u044f \u0444\u043e\u0440\u043c\u0430 \u043d\u0438\u043a\u0435\u043b\u044f",
+      "original_id": "A126"
+    },
+    "type": "node"
+  },
+  {
+    "id": 127,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "\u043a\u043e\u043d\u0432\u0435\u0440\u0442\u0435\u0440\u043d\u044b\u0435 \u0448\u043b\u0430\u043a\u0438",
+      "original_id": "A127"
+    },
+    "type": "node"
+  },
+  {
+    "id": 129,
+    "labels": [
+      "Term"
+    ],
+    "properties": {
+      "name": "\u0441\u0438\u0441\u0442\u0435\u043c\u0430 FeS-FeO-CaO",
+      "original_id": "A129"
+    },
+    "type": "node"
+  },
+  {
+    "id": 100000,
+    "label": "\u0418\u0421\u041f\u041e\u041b\u042c\u0417\u0423\u0415\u0422_\u041c\u0415\u0422\u041e\u0414\u042b",
+    "properties": {},
+    "start": 61,
+    "end": 62,
+    "type": "relationship"
+  },
+  {
+    "id": 100001,
+    "label": "\u0418\u0421\u041f\u041e\u041b\u042c\u0417\u0423\u0415\u0422_\u041c\u0415\u0422\u041e\u0414\u042b",
+    "properties": {},
+    "start": 61,
+    "end": 63,
+    "type": "relationship"
+  },
+  {
+    "id": 100002,
+    "label": "\u0418\u0421\u041f\u041e\u041b\u042c\u0417\u0423\u0415\u0422_\u041c\u0415\u0422\u041e\u0414\u042b",
+    "properties": {},
+    "start": 61,
+    "end": 64,
+    "type": "relationship"
+  },
+  {
+    "id": 100003,
+    "label": "\u041f\u0420\u0418\u041c\u0415\u041d\u042f\u0415\u0422\u0421\u042f_\u0414\u041b\u042f",
+    "properties": {},
+    "start": 62,
+    "end": 66,
+    "type": "relationship"
+  },
+  {
+    "id": 100004,
+    "label": "\u0418\u0421\u041f\u041e\u041b\u042c\u0417\u0423\u0415\u0422\u0421\u042f_\u041f\u0420\u0418",
+    "properties": {},
+    "start": 63,
+    "end": 61,
+    "type": "relationship"
+  },
+  {
+    "id": 100005,
+    "label": "\u042f\u0412\u041b\u042f\u0415\u0422\u0421\u042f",
+    "properties": {},
+    "start": 64,
+    "end": 61,
+    "type": "relationship"
+  },
+  {
+    "id": 100006,
+    "label": "\u041f\u0415\u0420\u0415\u0420\u0410\u0411\u0410\u0422\u042b\u0412\u0410\u042e\u0422\u0421\u042f_\u0421_\u041f\u041e\u041c\u041e\u0429\u042c\u042e",
+    "properties": {},
+    "start": 65,
+    "end": 62,
+    "type": "relationship"
+  },
+  {
+    "id": 100007,
+    "label": "\u041f\u041e\u041b\u0423\u0427\u0410\u0415\u0422\u0421\u042f_\u041f\u0420\u0418",
+    "properties": {},
+    "start": 66,
+    "end": 67,
+    "type": "relationship"
+  },
+  {
+    "id": 100008,
+    "label": "\u0420\u0410\u0417\u0414\u0415\u041b\u042f\u0415\u0422\u0421\u042f_\u041c\u0415\u0422\u041e\u0414\u041e\u041c",
+    "properties": {},
+    "start": 66,
+    "end": 62,
+    "type": "relationship"
+  },
+  {
+    "id": 100009,
+    "label": "\u0418\u0417\u0423\u0427\u0410\u0415\u0422",
+    "properties": {},
+    "start": 68,
+    "end": 69,
+    "type": "relationship"
+  },
+  {
+    "id": 100010,
+    "label": "\u0418\u0417\u0423\u0427\u0410\u0415\u0422",
+    "properties": {},
+    "start": 68,
+    "end": 70,
+    "type": "relationship"
+  },
+  {
+    "id": 100011,
+    "label": "\u041e\u041f\u0418\u0421\u042b\u0412\u0410\u042e\u0422",
+    "properties": {},
+    "start": 69,
+    "end": 70,
+    "type": "relationship"
+  },
+  {
+    "id": 100012,
+    "label": "\u0412\u041a\u041b\u042e\u0427\u0410\u042e\u0422_\u0421\u0418\u0421\u0422\u0415\u041c\u042b",
+    "properties": {},
+    "start": 70,
+    "end": 76,
+    "type": "relationship"
+  },
+  {
+    "id": 100013,
+    "label": "\u0412\u041a\u041b\u042e\u0427\u0410\u042e\u0422_\u0421\u0418\u0421\u0422\u0415\u041c\u042b",
+    "properties": {},
+    "start": 70,
+    "end": 77,
+    "type": "relationship"
+  },
+  {
+    "id": 100014,
+    "label": "\u0412\u041a\u041b\u042e\u0427\u0410\u042e\u0422_\u0421\u0418\u0421\u0422\u0415\u041c\u042b",
+    "properties": {},
+    "start": 70,
+    "end": 78,
+    "type": "relationship"
+  },
+  {
+    "id": 100015,
+    "label": "\u0412\u041a\u041b\u042e\u0427\u0410\u042e\u0422_\u0421\u0418\u0421\u0422\u0415\u041c\u042b",
+    "properties": {},
+    "start": 70,
+    "end": 79,
+    "type": "relationship"
+  },
+  {
+    "id": 100016,
+    "label": "\u0425\u0410\u0420\u0410\u041a\u0422\u0415\u0420\u0418\u0417\u0423\u0415\u0422\u0421\u042f",
+    "properties": {},
+    "start": 71,
+    "end": 72,
+    "type": "relationship"
+  },
+  {
+    "id": 100017,
+    "label": "\u0425\u0410\u0420\u0410\u041a\u0422\u0415\u0420\u0418\u0417\u0423\u0415\u0422\u0421\u042f",
+    "properties": {},
+    "start": 71,
+    "end": 73,
+    "type": "relationship"
+  },
+  {
+    "id": 100018,
+    "label": "\u041e\u041f\u0420\u0415\u0414\u0415\u041b\u042f\u0415\u0422\u0421\u042f_\u041f\u041e",
+    "properties": {},
+    "start": 72,
+    "end": 73,
+    "type": "relationship"
+  },
+  {
+    "id": 100019,
+    "label": "\u0417\u0410\u0412\u0418\u0421\u0418\u0422_\u041e\u0422",
+    "properties": {},
+    "start": 73,
+    "end": 74,
+    "type": "relationship"
+  },
+  {
+    "id": 100020,
+    "label": "\u0412\u041b\u0418\u042f\u0415\u0422_\u041d\u0410",
+    "properties": {},
+    "start": 74,
+    "end": 75,
+    "type": "relationship"
+  },
+  {
+    "id": 100021,
+    "label": "\u041e\u041f\u0420\u0415\u0414\u0415\u041b\u042f\u0415\u0422",
+    "properties": {},
+    "start": 75,
+    "end": 72,
+    "type": "relationship"
+  },
+  {
+    "id": 100022,
+    "label": "\u0418\u041c\u0415\u0415\u0422",
+    "properties": {},
+    "start": 76,
+    "end": 80,
+    "type": "relationship"
+  },
+  {
+    "id": 100023,
+    "label": "\u041e\u0411\u0420\u0410\u0417\u0423\u0415\u0422_\u0421\u041e\u0415\u0414\u0418\u041d\u0415\u041d\u0418\u042f",
+    "properties": {},
+    "start": 77,
+    "end": 70,
+    "type": "relationship"
+  },
+  {
+    "id": 100024,
+    "label": "\u042f\u0412\u041b\u042f\u0415\u0422\u0421\u042f_\u041b\u0415\u0413\u041a\u041e\u041f\u041b\u0410\u0412\u041a\u0418\u041c",
+    "properties": {},
+    "start": 78,
+    "end": 70,
+    "type": "relationship"
+  },
+  {
+    "id": 100025,
+    "label": "\u0421\u041a\u041b\u041e\u041d\u0415\u041d_\u041a",
+    "properties": {},
+    "start": 79,
+    "end": 80,
+    "type": "relationship"
+  },
+  {
+    "id": 100026,
+    "label": "\u0423\u0421\u0418\u041b\u0418\u0412\u0410\u0415\u0422\u0421\u042f_\u041f\u0420\u0418_\u0414\u041e\u0411\u0410\u0412\u041b\u0415\u041d\u0418\u0418",
+    "properties": {},
+    "start": 80,
+    "end": 90,
+    "type": "relationship"
+  },
+  {
+    "id": 100027,
+    "label": "\u041f\u0420\u041e\u0418\u0417\u0412\u041e\u0414\u0418\u0422",
+    "properties": {},
+    "start": 81,
+    "end": 66,
+    "type": "relationship"
+  },
+  {
+    "id": 100028,
+    "label": "\u0418\u0421\u041f\u041e\u041b\u042c\u0417\u0423\u0415\u0422",
+    "properties": {},
+    "start": 82,
+    "end": 62,
+    "type": "relationship"
+  },
+  {
+    "id": 100029,
+    "label": "\u041f\u041e\u041b\u0423\u0427\u0410\u0415\u0422",
+    "properties": {},
+    "start": 83,
+    "end": 66,
+    "type": "relationship"
+  },
+  {
+    "id": 100030,
+    "label": "\u0418\u0421\u041f\u041e\u041b\u042c\u0417\u0423\u0415\u0422",
+    "properties": {},
+    "start": 84,
+    "end": 80,
+    "type": "relationship"
+  },
+  {
+    "id": 100031,
+    "label": "\u041e\u041f\u0420\u0415\u0414\u0415\u041b\u042f\u042e\u0422",
+    "properties": {},
+    "start": 85,
+    "end": 74,
+    "type": "relationship"
+  },
+  {
+    "id": 100032,
+    "label": "\u041e\u0411\u0420\u0410\u0417\u0423\u042e\u0422\u0421\u042f_\u041f\u0420\u0418",
+    "properties": {},
+    "start": 86,
+    "end": 74,
+    "type": "relationship"
+  },
+  {
+    "id": 100033,
+    "label": "\u041e\u0422\u041d\u041e\u0421\u042f\u0422\u0421\u042f_\u041a",
+    "properties": {},
+    "start": 87,
+    "end": 75,
+    "type": "relationship"
+  },
+  {
+    "id": 100034,
+    "label": "\u0412\u041b\u0418\u042f\u042e\u0422_\u041d\u0410",
+    "properties": {},
+    "start": 88,
+    "end": 75,
+    "type": "relationship"
+  },
+  {
+    "id": 100035,
+    "label": "\u0425\u0410\u0420\u0410\u041a\u0422\u0415\u0420\u0418\u0417\u0423\u0415\u0422",
+    "properties": {},
+    "start": 89,
+    "end": 75,
+    "type": "relationship"
+  },
+  {
+    "id": 100036,
+    "label": "\u0421\u041f\u041e\u0421\u041e\u0411\u0421\u0422\u0412\u0423\u0415\u0422",
+    "properties": {},
+    "start": 90,
+    "end": 80,
+    "type": "relationship"
+  },
+  {
+    "id": 100037,
+    "label": "\u0421\u041e\u0414\u0415\u0420\u0416\u0418\u0422",
+    "properties": {},
+    "start": 66,
+    "end": 70,
+    "type": "relationship"
+  },
+  {
+    "id": 100038,
+    "label": "\u0412\u041b\u0418\u042f\u0415\u0422_\u041d\u0410",
+    "properties": {},
+    "start": 67,
+    "end": 66,
+    "type": "relationship"
+  },
+  {
+    "id": 100039,
+    "label": "\u0421\u041e\u0414\u0415\u0420\u0416\u0418\u0422",
+    "properties": {},
+    "start": 71,
+    "end": 87,
+    "type": "relationship"
+  },
+  {
+    "id": 100040,
+    "label": "\u0421\u041e\u0414\u0415\u0420\u0416\u0418\u0422",
+    "properties": {},
+    "start": 71,
+    "end": 88,
+    "type": "relationship"
+  },
+  {
+    "id": 100041,
+    "label": "\u0417\u0410\u0412\u0418\u0421\u0418\u0422_\u041e\u0422",
+    "properties": {},
+    "start": 74,
+    "end": 85,
+    "type": "relationship"
+  },
+  {
+    "id": 100042,
+    "label": "\u041e\u041f\u0420\u0415\u0414\u0415\u041b\u042f\u0415\u0422\u0421\u042f",
+    "properties": {},
+    "start": 75,
+    "end": 89,
+    "type": "relationship"
+  },
+  {
+    "id": 100043,
+    "label": "\u041d\u0410\u0411\u041b\u042e\u0414\u0410\u0415\u0422\u0421\u042f_\u0412",
+    "properties": {},
+    "start": 80,
+    "end": 76,
+    "type": "relationship"
+  },
+  {
+    "id": 100044,
+    "label": "\u041d\u0410\u0411\u041b\u042e\u0414\u0410\u0415\u0422\u0421\u042f_\u0412",
+    "properties": {},
+    "start": 80,
+    "end": 79,
+    "type": "relationship"
+  },
+  {
+    "id": 100045,
+    "label": "\u041f\u041e\u0417\u0412\u041e\u041b\u042f\u0415\u0422_\u0420\u0410\u0417\u0414\u0415\u041b\u0418\u0422\u042c",
+    "properties": {},
+    "start": 62,
+    "end": 66,
+    "type": "relationship"
+  },
+  {
+    "id": 100046,
+    "label": "\u0418\u0421\u041f\u041e\u041b\u042c\u0417\u0423\u0415\u0422\u0421\u042f_\u0414\u041b\u042f",
+    "properties": {},
+    "start": 63,
+    "end": 61,
+    "type": "relationship"
+  },
+  {
+    "id": 100047,
+    "label": "\u041f\u0420\u0418\u041c\u0415\u041d\u042f\u0415\u0422\u0421\u042f_\u041f\u0420\u0418",
+    "properties": {},
+    "start": 64,
+    "end": 61,
+    "type": "relationship"
+  },
+  {
+    "id": 100048,
+    "label": "\u041e\u0421\u041d\u041e\u0412\u0410\u041d\u0410_\u041d\u0410",
+    "properties": {},
+    "start": 68,
+    "end": 69,
+    "type": "relationship"
+  },
+  {
+    "id": 100049,
+    "label": "\u041f\u0420\u041e\u0412\u041e\u0414\u0418\u0422\u0421\u042f_\u0412",
+    "properties": {},
+    "start": 201,
+    "end": 202,
+    "type": "relationship"
+  },
+  {
+    "id": 100050,
+    "label": "\u041f\u0415\u0420\u0415\u0420\u0410\u0411\u0410\u0422\u042b\u0412\u0410\u0415\u0422",
+    "properties": {},
+    "start": 201,
+    "end": 203,
+    "type": "relationship"
+  },
+  {
+    "id": 100051,
+    "label": "\u041e\u0411\u0420\u0410\u0417\u0423\u0415\u0422",
+    "properties": {},
+    "start": 201,
+    "end": 204,
+    "type": "relationship"
+  },
+  {
+    "id": 100052,
+    "label": "\u0418\u0417\u0412\u041b\u0415\u041a\u0410\u0415\u0422\u0421\u042f_\u041f\u0420\u0418",
+    "properties": {},
+    "start": 204,
+    "end": 205,
+    "type": "relationship"
+  },
+  {
+    "id": 100053,
+    "label": "\u041f\u0420\u041e\u0418\u0417\u0412\u041e\u0414\u0418\u0422",
+    "properties": {},
+    "start": 205,
+    "end": 206,
+    "type": "relationship"
+  },
+  {
+    "id": 100054,
+    "label": "\u0414\u041e\u0411\u0410\u0412\u041b\u042f\u0415\u0422\u0421\u042f_\u041f\u0420\u0418",
+    "properties": {},
+    "start": 207,
+    "end": 201,
+    "type": "relationship"
+  },
+  {
+    "id": 100055,
+    "label": "\u041e\u0411\u0415\u0421\u041f\u0415\u0427\u0418\u0412\u0410\u0415\u0422",
+    "properties": {},
+    "start": 201,
+    "end": 208,
+    "type": "relationship"
+  },
+  {
+    "id": 100056,
+    "label": "\u041f\u041e\u0414\u0412\u0415\u0420\u0413\u0410\u0415\u0422\u0421\u042f",
+    "properties": {},
+    "start": 203,
+    "end": 209,
+    "type": "relationship"
+  },
+  {
+    "id": 100057,
+    "label": "\u041f\u0415\u0420\u0415\u0420\u0410\u0411\u0410\u0422\u042b\u0412\u0410\u042e\u0422\u0421\u042f_\u041c\u0415\u0422\u041e\u0414\u041e\u041c",
+    "properties": {},
+    "start": 210,
+    "end": 201,
+    "type": "relationship"
+  },
+  {
+    "id": 100058,
+    "label": "\u0412\u041a\u041b\u042e\u0427\u0410\u0415\u0422",
+    "properties": {},
+    "start": 211,
+    "end": 212,
+    "type": "relationship"
+  },
+  {
+    "id": 100059,
+    "label": "\u041e\u0421\u0423\u0429\u0415\u0421\u0422\u0412\u041b\u042f\u0415\u0422\u0421\u042f_\u0412",
+    "properties": {},
+    "start": 212,
+    "end": 213,
+    "type": "relationship"
+  },
+  {
+    "id": 100060,
+    "label": "\u0418\u0421\u041f\u041e\u041b\u042c\u0417\u0423\u0415\u0422\u0421\u042f_\u0414\u041b\u042f",
+    "properties": {},
+    "start": 214,
+    "end": 212,
+    "type": "relationship"
+  },
+  {
+    "id": 100061,
+    "label": "\u041f\u041e\u0414\u0413\u041e\u0422\u0410\u0412\u041b\u0418\u0412\u0410\u0415\u0422_\u041a",
+    "properties": {},
+    "start": 212,
+    "end": 215,
+    "type": "relationship"
+  },
+  {
+    "id": 100062,
+    "label": "\u041f\u0415\u0420\u0415\u0420\u0410\u0411\u0410\u0422\u042b\u0412\u0410\u0415\u0422\u0421\u042f_\u041f\u041e",
+    "properties": {},
+    "start": 216,
+    "end": 211,
+    "type": "relationship"
+  },
+  {
+    "id": 100063,
+    "label": "\u041f\u0415\u0420\u0415\u0420\u0410\u0411\u0410\u0422\u042b\u0412\u0410\u0415\u0422\u0421\u042f_\u041f\u041e",
+    "properties": {},
+    "start": 217,
+    "end": 211,
+    "type": "relationship"
+  },
+  {
+    "id": 100064,
+    "label": "\u041f\u0420\u0415\u0414\u0428\u0415\u0421\u0422\u0412\u0423\u0415\u0422",
+    "properties": {},
+    "start": 218,
+    "end": 201,
+    "type": "relationship"
+  },
+  {
+    "id": 100065,
+    "label": "\u041f\u0415\u0420\u0415\u0420\u0410\u0411\u0410\u0422\u042b\u0412\u0410\u041b\u0418\u0421\u042c_\u041c\u0415\u0422\u041e\u0414\u041e\u041c",
+    "properties": {},
+    "start": 219,
+    "end": 201,
+    "type": "relationship"
+  },
+  {
+    "id": 100066,
+    "label": "\u0418\u0421\u041f\u041e\u041b\u042c\u0417\u041e\u0412\u0410\u041b",
+    "properties": {},
+    "start": 220,
+    "end": 211,
+    "type": "relationship"
+  },
+  {
+    "id": 100067,
+    "label": "\u041f\u0420\u0415\u0412\u041e\u0421\u0425\u041e\u0414\u0418\u0422_\u041f\u041e_\u042d\u0424\u0424\u0415\u041a\u0422\u0418\u0412\u041d\u041e\u0421\u0422\u0418",
+    "properties": {},
+    "start": 202,
+    "end": 213,
+    "type": "relationship"
+  },
+  {
+    "id": 100068,
+    "label": "\u041f\u041e\u0412\u042b\u0428\u0410\u0415\u0422",
+    "properties": {},
+    "start": 207,
+    "end": 201,
+    "type": "relationship"
+  },
+  {
+    "id": 100069,
+    "label": "\u041f\u0420\u0418\u041c\u0415\u041d\u042f\u0415\u0422\u0421\u042f_\u041d\u0410",
+    "properties": {},
+    "start": 221,
+    "end": 223,
+    "type": "relationship"
+  },
+  {
+    "id": 100070,
+    "label": "\u041f\u0415\u0420\u0415\u0420\u0410\u0411\u0410\u0422\u042b\u0412\u0410\u0415\u0422",
+    "properties": {},
+    "start": 221,
+    "end": 203,
+    "type": "relationship"
+  },
+  {
+    "id": 100071,
+    "label": "\u0418\u0421\u041f\u041e\u041b\u042c\u0417\u0423\u0415\u0422",
+    "properties": {},
+    "start": 223,
+    "end": 224,
+    "type": "relationship"
+  },
+  {
+    "id": 100072,
+    "label": "\u041f\u041e\u0417\u0412\u041e\u041b\u042f\u0415\u0422_\u041f\u0420\u041e\u0412\u041e\u0414\u0418\u0422\u042c",
+    "properties": {},
+    "start": 224,
+    "end": 221,
+    "type": "relationship"
+  },
+  {
+    "id": 100073,
+    "label": "\u0421\u041e\u041f\u0420\u041e\u0412\u041e\u0416\u0414\u0410\u0415\u0422\u0421\u042f",
+    "properties": {},
+    "start": 221,
+    "end": 63,
+    "type": "relationship"
+  },
+  {
+    "id": 100074,
+    "label": "\u041f\u0420\u041e\u0418\u0417\u0412\u041e\u0414\u0418\u0422",
+    "properties": {},
+    "start": 63,
+    "end": 226,
+    "type": "relationship"
+  },
+  {
+    "id": 100075,
+    "label": "\u041f\u0420\u0418\u041c\u0415\u041d\u042f\u042e\u0422",
+    "properties": {},
+    "start": 227,
+    "end": 221,
+    "type": "relationship"
+  },
+  {
+    "id": 100076,
+    "label": "\u041e\u0421\u0423\u0429\u0415\u0421\u0422\u0412\u041b\u042f\u0415\u0422",
+    "properties": {},
+    "start": 228,
+    "end": 221,
+    "type": "relationship"
+  },
+  {
+    "id": 100077,
+    "label": "\u041e\u0421\u041d\u041e\u0412\u0410\u041d_\u041d\u0410",
+    "properties": {},
+    "start": 229,
+    "end": 230,
+    "type": "relationship"
+  },
+  {
+    "id": 100078,
+    "label": "\u041f\u041e\u0417\u0412\u041e\u041b\u042f\u0415\u0422_\u0418\u0417\u0412\u041b\u0415\u041a\u0410\u0422\u042c",
+    "properties": {},
+    "start": 229,
+    "end": 203,
+    "type": "relationship"
+  },
+  {
+    "id": 100079,
+    "label": "\u0412\u041a\u041b\u042e\u0427\u0410\u0415\u0422",
+    "properties": {},
+    "start": 231,
+    "end": 232,
+    "type": "relationship"
+  },
+  {
+    "id": 100080,
+    "label": "\u041f\u0420\u0418\u041c\u0415\u041d\u042f\u0415\u0422\u0421\u042f_\u0414\u041b\u042f",
+    "properties": {},
+    "start": 232,
+    "end": 233,
+    "type": "relationship"
+  },
+  {
+    "id": 100081,
+    "label": "\u0418\u0421\u041f\u041e\u041b\u042c\u0417\u0423\u0415\u0422\u0421\u042f_\u0414\u041b\u042f",
+    "properties": {},
+    "start": 234,
+    "end": 218,
+    "type": "relationship"
+  },
+  {
+    "id": 100082,
+    "label": "\u041f\u0420\u0418\u041c\u0415\u041d\u042f\u041b\u0421\u042f_\u041d\u0410",
+    "properties": {},
+    "start": 218,
+    "end": 239,
+    "type": "relationship"
+  },
+  {
+    "id": 100083,
+    "label": "\u0418\u0421\u041f\u041e\u041b\u042c\u0417\u0423\u0415\u0422\u0421\u042f_\u0414\u041b\u042f",
+    "properties": {},
+    "start": 236,
+    "end": 237,
+    "type": "relationship"
+  },
+  {
+    "id": 100084,
+    "label": "\u041f\u0420\u041e\u0418\u0417\u0412\u041e\u0414\u0418\u0422\u0421\u042f_\u0418\u0417",
+    "properties": {},
+    "start": 237,
+    "end": 238,
+    "type": "relationship"
+  },
+  {
+    "id": 100085,
+    "label": "\u0420\u0410\u0417\u0420\u0410\u0411\u041e\u0422\u0410\u041b",
+    "properties": {},
+    "start": 239,
+    "end": 218,
+    "type": "relationship"
+  },
+  {
+    "id": 100086,
+    "label": "\u041e\u0421\u0412\u041e\u0418\u041b",
+    "properties": {},
+    "start": 240,
+    "end": 237,
+    "type": "relationship"
+  },
+  {
+    "id": 100087,
+    "label": "\u041e\u0411\u0415\u0421\u041f\u0415\u0427\u0418\u0412\u0410\u0415\u0422_\u0412\u042b\u0421\u041e\u041a\u041e\u0415",
+    "properties": {},
+    "start": 221,
+    "end": 229,
+    "type": "relationship"
+  },
+  {
+    "id": 100088,
+    "label": "\u041f\u041e\u0417\u0412\u041e\u041b\u042f\u0415\u0422_\u0421\u0415\u041b\u0415\u041a\u0422\u0418\u0412\u041d\u041e",
+    "properties": {},
+    "start": 229,
+    "end": 203,
+    "type": "relationship"
+  },
+  {
+    "id": 100089,
+    "label": "\u0418\u0417\u0423\u0427\u0410\u0415\u0422\u0421\u042f_\u0412_\u0421\u0418\u0421\u0422\u0415\u041c\u0410\u0425",
+    "properties": {},
+    "start": 91,
+    "end": 92,
+    "type": "relationship"
+  },
+  {
+    "id": 100090,
+    "label": "\u0418\u0417\u0423\u0427\u0410\u0415\u0422\u0421\u042f_\u0412_\u0421\u0418\u0421\u0422\u0415\u041c\u0410\u0425",
+    "properties": {},
+    "start": 91,
+    "end": 93,
+    "type": "relationship"
+  },
+  {
+    "id": 100091,
+    "label": "\u0418\u0417\u0423\u0427\u0410\u0415\u0422\u0421\u042f_\u0412_\u0421\u0418\u0421\u0422\u0415\u041c\u0410\u0425",
+    "properties": {},
+    "start": 91,
+    "end": 94,
+    "type": "relationship"
+  },
+  {
+    "id": 100092,
+    "label": "\u0418\u0417\u0423\u0427\u0410\u0415\u0422\u0421\u042f_\u0412_\u0421\u0418\u0421\u0422\u0415\u041c\u0410\u0425",
+    "properties": {},
+    "start": 91,
+    "end": 97,
+    "type": "relationship"
+  },
+  {
+    "id": 100093,
+    "label": "\u0418\u041c\u0415\u0415\u0422_\u041b\u0418\u041a\u0412\u0418\u0414\u0423\u0421",
+    "properties": {},
+    "start": 92,
+    "end": 91,
+    "type": "relationship"
+  },
+  {
+    "id": 100094,
+    "label": "\u0421\u041e\u0414\u0415\u0420\u0416\u0418\u0422",
+    "properties": {},
+    "start": 93,
+    "end": 95,
+    "type": "relationship"
+  },
+  {
+    "id": 100095,
+    "label": "\u042f\u0412\u041b\u042f\u0415\u0422\u0421\u042f_\u0422\u0423\u0413\u041e\u041f\u041b\u0410\u0412\u041a\u041e\u0419",
+    "properties": {},
+    "start": 94,
+    "end": 91,
+    "type": "relationship"
+  },
+  {
+    "id": 100096,
+    "label": "\u041f\u041b\u0410\u0412\u0418\u0422\u0421\u042f_\u041f\u0420\u0418",
+    "properties": {},
+    "start": 95,
+    "end": 91,
+    "type": "relationship"
+  },
+  {
+    "id": 100097,
+    "label": "\u0423\u0421\u0422\u041e\u0419\u0427\u0418\u0412\u042b_\u041f\u0420\u0418",
+    "properties": {},
+    "start": 96,
+    "end": 91,
+    "type": "relationship"
+  },
+  {
+    "id": 100098,
+    "label": "\u041e\u041f\u0420\u0415\u0414\u0415\u041b\u042f\u0415\u0422_\u0421\u0412\u041e\u0419\u0421\u0422\u0412\u0410",
+    "properties": {},
+    "start": 97,
+    "end": 91,
+    "type": "relationship"
+  },
+  {
+    "id": 100099,
+    "label": "\u0425\u0410\u0420\u0410\u041a\u0422\u0415\u0420\u0418\u0417\u0423\u0415\u0422\u0421\u042f",
+    "properties": {},
+    "start": 91,
+    "end": 98,
+    "type": "relationship"
+  },
+  {
+    "id": 100100,
+    "label": "\u0425\u0410\u0420\u0410\u041a\u0422\u0415\u0420\u0418\u0417\u0423\u0415\u0422\u0421\u042f",
+    "properties": {},
+    "start": 91,
+    "end": 99,
+    "type": "relationship"
+  },
+  {
+    "id": 100101,
+    "label": "\u0417\u0410\u0412\u0418\u0421\u0418\u0422_\u041e\u0422",
+    "properties": {},
+    "start": 98,
+    "end": 91,
+    "type": "relationship"
+  },
+  {
+    "id": 100102,
+    "label": "\u0421\u0412\u042f\u0417\u0410\u041d\u0410_\u0421",
+    "properties": {},
+    "start": 99,
+    "end": 91,
+    "type": "relationship"
+  },
+  {
+    "id": 100103,
+    "label": "\u041e\u041f\u0420\u0415\u0414\u0415\u041b\u042f\u0415\u0422",
+    "properties": {},
+    "start": 100,
+    "end": 101,
+    "type": "relationship"
+  },
+  {
+    "id": 100104,
+    "label": "\u041e\u041f\u0420\u0415\u0414\u0415\u041b\u042f\u0415\u0422",
+    "properties": {},
+    "start": 100,
+    "end": 102,
+    "type": "relationship"
+  },
+  {
+    "id": 100105,
+    "label": "\u0420\u0415\u0413\u0423\u041b\u0418\u0420\u0423\u0415\u0422\u0421\u042f",
+    "properties": {},
+    "start": 101,
+    "end": 100,
+    "type": "relationship"
+  },
+  {
+    "id": 100106,
+    "label": "\u041f\u041e\u0414\u0427\u0418\u041d\u042f\u0415\u0422\u0421\u042f",
+    "properties": {},
+    "start": 102,
+    "end": 107,
+    "type": "relationship"
+  },
+  {
+    "id": 100107,
+    "label": "\u0412\u041b\u0418\u042f\u0415\u0422_\u041d\u0410",
+    "properties": {},
+    "start": 103,
+    "end": 101,
+    "type": "relationship"
+  },
+  {
+    "id": 100108,
+    "label": "\u0412\u041b\u0418\u042f\u0415\u0422_\u041d\u0410",
+    "properties": {},
+    "start": 103,
+    "end": 102,
+    "type": "relationship"
+  },
+  {
+    "id": 100109,
+    "label": "\u041f\u041e\u041b\u0423\u0427\u0410\u0415\u0422\u0421\u042f_\u041f\u0420\u0418",
+    "properties": {},
+    "start": 104,
+    "end": 103,
+    "type": "relationship"
+  },
+  {
+    "id": 100110,
+    "label": "\u041e\u0411\u0420\u0410\u0417\u0423\u0415\u0422\u0421\u042f_\u041f\u0420\u0418",
+    "properties": {},
+    "start": 105,
+    "end": 103,
+    "type": "relationship"
+  },
+  {
+    "id": 100111,
+    "label": "\u0421\u041d\u0418\u0416\u0410\u0415\u0422_\u041f\u041e\u0422\u0415\u0420\u0418",
+    "properties": {},
+    "start": 106,
+    "end": 101,
+    "type": "relationship"
+  },
+  {
+    "id": 100112,
+    "label": "\u0421\u041d\u0418\u0416\u0410\u0415\u0422_\u041f\u041e\u0422\u0415\u0420\u0418",
+    "properties": {},
+    "start": 106,
+    "end": 102,
+    "type": "relationship"
+  },
+  {
+    "id": 100113,
+    "label": "\u0412\u042b\u0420\u0410\u0416\u0410\u0415\u0422\u0421\u042f_\u0427\u0415\u0420\u0415\u0417",
+    "properties": {},
+    "start": 107,
+    "end": 100,
+    "type": "relationship"
+  },
+  {
+    "id": 100114,
+    "label": "\u041e\u041f\u0420\u0415\u0414\u0415\u041b\u042f\u0415\u0422_\u041f\u041e\u0422\u0415\u0420\u0418",
+    "properties": {},
+    "start": 108,
+    "end": 101,
+    "type": "relationship"
+  },
+  {
+    "id": 100115,
+    "label": "\u041e\u041f\u0420\u0415\u0414\u0415\u041b\u042f\u0415\u0422_\u041f\u041e\u0422\u0415\u0420\u0418",
+    "properties": {},
+    "start": 108,
+    "end": 102,
+    "type": "relationship"
+  },
+  {
+    "id": 100116,
+    "label": "\u0412\u041b\u0418\u042f\u0415\u0422_\u041d\u0410",
+    "properties": {},
+    "start": 109,
+    "end": 108,
+    "type": "relationship"
+  },
+  {
+    "id": 100117,
+    "label": "\u041f\u0420\u0415\u041e\u0411\u041b\u0410\u0414\u0410\u0415\u0422_\u0412",
+    "properties": {},
+    "start": 110,
+    "end": 91,
+    "type": "relationship"
+  },
+  {
+    "id": 100118,
+    "label": "\u0421\u041e\u0414\u0415\u0420\u0416\u0418\u0422",
+    "properties": {},
+    "start": 91,
+    "end": 110,
+    "type": "relationship"
+  },
+  {
+    "id": 100119,
+    "label": "\u0417\u0410\u0412\u0418\u0421\u0418\u0422_\u041e\u0422",
+    "properties": {},
+    "start": 100,
+    "end": 106,
+    "type": "relationship"
+  },
+  {
+    "id": 100120,
+    "label": "\u041e\u0422\u041b\u0418\u0427\u0410\u0415\u0422\u0421\u042f_\u041e\u0422",
+    "properties": {},
+    "start": 101,
+    "end": 102,
+    "type": "relationship"
+  },
+  {
+    "id": 100121,
+    "label": "\u0411\u041e\u041b\u042c\u0428\u0415_\u0427\u0415\u041c",
+    "properties": {},
+    "start": 102,
+    "end": 101,
+    "type": "relationship"
+  },
+  {
+    "id": 100122,
+    "label": "\u041e\u0421\u0423\u0429\u0415\u0421\u0422\u0412\u041b\u042f\u0415\u0422\u0421\u042f_\u0421_\u041f\u041e\u041c\u041e\u0429\u042c\u042e",
+    "properties": {},
+    "start": 103,
+    "end": 104,
+    "type": "relationship"
+  },
+  {
+    "id": 100123,
+    "label": "\u0421\u041e\u0414\u0415\u0420\u0416\u0418\u0422",
+    "properties": {},
+    "start": 104,
+    "end": 101,
+    "type": "relationship"
+  },
+  {
+    "id": 100124,
+    "label": "\u0421\u041e\u0414\u0415\u0420\u0416\u0418\u0422",
+    "properties": {},
+    "start": 104,
+    "end": 102,
+    "type": "relationship"
+  },
+  {
+    "id": 100125,
+    "label": "\u0418\u041c\u0415\u0415\u0422_\u041a\u041e\u041d\u0421\u0422\u0410\u041d\u0422\u0423",
+    "properties": {},
+    "start": 105,
+    "end": 100,
+    "type": "relationship"
+  },
+  {
+    "id": 100126,
+    "label": "\u0423\u0412\u0415\u041b\u0418\u0427\u0418\u0412\u0410\u0415\u0422",
+    "properties": {},
+    "start": 106,
+    "end": 100,
+    "type": "relationship"
+  },
+  {
+    "id": 100127,
+    "label": "\u041e\u041f\u0418\u0421\u042b\u0412\u0410\u0415\u0422",
+    "properties": {},
+    "start": 107,
+    "end": 101,
+    "type": "relationship"
+  },
+  {
+    "id": 100128,
+    "label": "\u041e\u041f\u0418\u0421\u042b\u0412\u0410\u0415\u0422",
+    "properties": {},
+    "start": 107,
+    "end": 102,
+    "type": "relationship"
+  },
+  {
+    "id": 100129,
+    "label": "\u0418\u0417\u0423\u0427\u0410\u041b",
+    "properties": {},
+    "start": 108,
+    "end": 91,
+    "type": "relationship"
+  },
+  {
+    "id": 100130,
+    "label": "\u041e\u041f\u0420\u0415\u0414\u0415\u041b\u042f\u0415\u0422",
+    "properties": {},
+    "start": 109,
+    "end": 110,
+    "type": "relationship"
+  },
+  {
+    "id": 100131,
+    "label": "\u0420\u0410\u0421\u0422\u0412\u041e\u0420\u042f\u0415\u0422\u0421\u042f_\u0412",
+    "properties": {},
+    "start": 110,
+    "end": 91,
+    "type": "relationship"
+  },
+  {
+    "id": 100132,
+    "label": "\u041e\u0411\u0420\u0410\u0417\u0423\u0415\u0422\u0421\u042f_\u041f\u0420\u0418",
+    "properties": {},
+    "start": 91,
+    "end": 103,
+    "type": "relationship"
+  },
+  {
+    "id": 100133,
+    "label": "\u0412\u041a\u041b\u042e\u0427\u0410\u0415\u0422",
+    "properties": {},
+    "start": 92,
+    "end": 91,
+    "type": "relationship"
+  },
+  {
+    "id": 100134,
+    "label": "\u041e\u0411\u0420\u0410\u0417\u0423\u0415\u0422",
+    "properties": {},
+    "start": 93,
+    "end": 95,
+    "type": "relationship"
+  },
+  {
+    "id": 100135,
+    "label": "\u0418\u041c\u0415\u0415\u0422_\u042d\u0412\u0422\u0415\u041a\u0422\u0418\u041a\u0418",
+    "properties": {},
+    "start": 94,
+    "end": 91,
+    "type": "relationship"
+  },
+  {
+    "id": 100136,
+    "label": "\u041e\u041f\u0420\u0415\u0414\u0415\u041b\u042f\u0415\u0422_\u0422\u0415\u041c\u041f\u0415\u0420\u0410\u0422\u0423\u0420\u0423",
+    "properties": {},
+    "start": 97,
+    "end": 91,
+    "type": "relationship"
+  },
+  {
+    "id": 100137,
+    "label": "\u0421\u041d\u0418\u0416\u0410\u0415\u0422\u0421\u042f_\u0421_\u0422\u0415\u041c\u041f\u0415\u0420\u0410\u0422\u0423\u0420\u041e\u0419",
+    "properties": {},
+    "start": 98,
+    "end": 91,
+    "type": "relationship"
+  },
+  {
+    "id": 100138,
+    "label": "\u041f\u0420\u0418\u041c\u0415\u041d\u042f\u0415\u0422\u0421\u042f_\u041d\u0410",
+    "properties": {},
+    "start": 161,
+    "end": 162,
+    "type": "relationship"
+  },
+  {
+    "id": 100139,
+    "label": "\u0421\u041e\u041f\u0420\u042f\u0416\u0415\u041d\u0410_\u0421",
+    "properties": {},
+    "start": 163,
+    "end": 164,
+    "type": "relationship"
+  },
+  {
+    "id": 100140,
+    "label": "\u041f\u0420\u041e\u0412\u041e\u0414\u0418\u0422\u0421\u042f_\u041d\u0410",
+    "properties": {},
+    "start": 166,
+    "end": 167,
+    "type": "relationship"
+  },
+  {
+    "id": 100141,
+    "label": "\u0418\u0421\u041f\u041e\u041b\u042c\u0417\u0423\u0415\u0422\u0421\u042f_\u0414\u041b\u042f",
+    "properties": {},
+    "start": 168,
+    "end": 161,
+    "type": "relationship"
+  },
+  {
+    "id": 100142,
+    "label": "\u041e\u0421\u0423\u0429\u0415\u0421\u0422\u0412\u041b\u042f\u0415\u0422\u0421\u042f_\u041f\u0420\u0418",
+    "properties": {},
+    "start": 169,
+    "end": 170,
+    "type": "relationship"
+  },
+  {
+    "id": 100143,
+    "label": "\u041f\u0420\u041e\u0412\u041e\u0414\u0418\u0422\u0421\u042f_\u0412",
+    "properties": {},
+    "start": 171,
+    "end": 172,
+    "type": "relationship"
+  },
+  {
+    "id": 100144,
+    "label": "\u0418\u0421\u041f\u041e\u041b\u042c\u0417\u0423\u0415\u0422",
+    "properties": {},
+    "start": 171,
+    "end": 173,
+    "type": "relationship"
+  },
+  {
+    "id": 100145,
+    "label": "\u041f\u0420\u041e\u0418\u0417\u0412\u041e\u0414\u0418\u0422",
+    "properties": {},
+    "start": 171,
+    "end": 174,
+    "type": "relationship"
+  },
+  {
+    "id": 100146,
+    "label": "\u041f\u0415\u0420\u0415\u0420\u0410\u0411\u0410\u0422\u042b\u0412\u0410\u0415\u0422\u0421\u042f_\u0412",
+    "properties": {},
+    "start": 174,
+    "end": 175,
+    "type": "relationship"
+  },
+  {
+    "id": 100147,
+    "label": "\u041e\u0421\u0423\u0429\u0415\u0421\u0422\u0412\u041b\u042f\u0415\u0422",
+    "properties": {},
+    "start": 176,
+    "end": 171,
+    "type": "relationship"
+  },
+  {
+    "id": 100148,
+    "label": "\u041e\u0411\u0420\u0410\u0411\u0410\u0422\u042b\u0412\u0410\u0415\u0422\u0421\u042f",
+    "properties": {},
+    "start": 177,
+    "end": 178,
+    "type": "relationship"
+  },
+  {
+    "id": 100149,
+    "label": "\u0421\u041e\u0414\u0415\u0420\u0416\u0418\u0422",
+    "properties": {},
+    "start": 178,
+    "end": 179,
+    "type": "relationship"
+  },
+  {
+    "id": 100150,
+    "label": "\u041f\u0420\u0418\u041c\u0415\u041d\u042f\u0415\u0422\u0421\u042f_\u0414\u041b\u042f",
+    "properties": {},
+    "start": 180,
+    "end": 171,
+    "type": "relationship"
+  },
+  {
+    "id": 100151,
+    "label": "\u0418\u0421\u041f\u041e\u041b\u042c\u0417\u0423\u0415\u0422",
+    "properties": {},
+    "start": 165,
+    "end": 161,
+    "type": "relationship"
+  },
+  {
+    "id": 100152,
+    "label": "\u041f\u041e\u0417\u0412\u041e\u041b\u042f\u0415\u0422",
+    "properties": {},
+    "start": 172,
+    "end": 171,
+    "type": "relationship"
+  },
+  {
+    "id": 100153,
+    "label": "\u0423\u0427\u0410\u0421\u0422\u0412\u0423\u0415\u0422_\u0412",
+    "properties": {},
+    "start": 173,
+    "end": 171,
+    "type": "relationship"
+  },
+  {
+    "id": 100154,
+    "label": "\u0412\u041e\u0421\u0421\u0422\u0410\u041d\u0410\u0412\u041b\u0418\u0412\u0410\u0415\u0422",
+    "properties": {},
+    "start": 179,
+    "end": 177,
+    "type": "relationship"
+  },
+  {
+    "id": 100155,
+    "label": "\u041f\u041e\u0412\u042b\u0428\u0410\u0415\u0422",
+    "properties": {},
+    "start": 171,
+    "end": 174,
+    "type": "relationship"
+  },
+  {
+    "id": 100156,
+    "label": "\u0421\u041d\u0418\u0416\u0410\u0415\u0422",
+    "properties": {},
+    "start": 171,
+    "end": 177,
+    "type": "relationship"
+  },
+  {
+    "id": 100157,
+    "label": "\u0418\u0421\u041f\u041e\u041b\u042c\u0417\u0423\u0415\u0422\u0421\u042f_\u0414\u041b\u042f",
+    "properties": {},
+    "start": 164,
+    "end": 171,
+    "type": "relationship"
+  },
+  {
+    "id": 100158,
+    "label": "\u0421\u041e\u0414\u0415\u0420\u0416\u0418\u0422",
+    "properties": {},
+    "start": 131,
+    "end": 132,
+    "type": "relationship"
+  },
+  {
+    "id": 100159,
+    "label": "\u0421\u041e\u0414\u0415\u0420\u0416\u0418\u0422",
+    "properties": {},
+    "start": 131,
+    "end": 133,
+    "type": "relationship"
+  },
+  {
+    "id": 100160,
+    "label": "\u0421\u041e\u0414\u0415\u0420\u0416\u0418\u0422",
+    "properties": {},
+    "start": 131,
+    "end": 134,
+    "type": "relationship"
+  },
+  {
+    "id": 100161,
+    "label": "\u0421\u041e\u0414\u0415\u0420\u0416\u0418\u0422",
+    "properties": {},
+    "start": 131,
+    "end": 135,
+    "type": "relationship"
+  },
+  {
+    "id": 100162,
+    "label": "\u041e\u0411\u0420\u0410\u0417\u0423\u0415\u0422\u0421\u042f_\u0418\u0417",
+    "properties": {},
+    "start": 131,
+    "end": 148,
+    "type": "relationship"
+  },
+  {
+    "id": 100163,
+    "label": "\u0421\u041e\u0414\u0415\u0420\u0416\u0418\u0422",
+    "properties": {},
+    "start": 137,
+    "end": 132,
+    "type": "relationship"
+  },
+  {
+    "id": 100164,
+    "label": "\u0421\u041e\u0414\u0415\u0420\u0416\u0418\u0422",
+    "properties": {},
+    "start": 137,
+    "end": 133,
+    "type": "relationship"
+  },
+  {
+    "id": 100165,
+    "label": "\u0421\u041e\u0414\u0415\u0420\u0416\u0418\u0422",
+    "properties": {},
+    "start": 137,
+    "end": 134,
+    "type": "relationship"
+  },
+  {
+    "id": 100166,
+    "label": "\u0421\u041e\u0414\u0415\u0420\u0416\u0418\u0422",
+    "properties": {},
+    "start": 137,
+    "end": 135,
+    "type": "relationship"
+  },
+  {
+    "id": 100167,
+    "label": "\u041e\u0411\u0420\u0410\u0417\u0423\u0415\u0422\u0421\u042f_\u041f\u0420\u0418_\u041d\u0410\u041b\u0418\u0427\u0418\u0418",
+    "properties": {},
+    "start": 138,
+    "end": 139,
+    "type": "relationship"
+  },
+  {
+    "id": 100168,
+    "label": "\u041f\u0420\u0415\u041f\u042f\u0422\u0421\u0422\u0412\u0423\u0415\u0422_\u041e\u0411\u0420\u0410\u0417\u041e\u0412\u0410\u041d\u0418\u042e",
+    "properties": {},
+    "start": 138,
+    "end": 140,
+    "type": "relationship"
+  },
+  {
+    "id": 100169,
+    "label": "\u0418\u0421\u041f\u041e\u041b\u042c\u0417\u0423\u0415\u0422\u0421\u042f_\u0414\u041b\u042f_\u0410\u041d\u0410\u041b\u0418\u0417\u0410",
+    "properties": {},
+    "start": 141,
+    "end": 131,
+    "type": "relationship"
+  },
+  {
+    "id": 100170,
+    "label": "\u0421\u041e\u0421\u0422\u041e\u0418\u0422_\u0418\u0417",
+    "properties": {},
+    "start": 148,
+    "end": 142,
+    "type": "relationship"
+  },
+  {
+    "id": 100171,
+    "label": "\u0421\u041e\u0421\u0422\u041e\u0418\u0422_\u0418\u0417",
+    "properties": {},
+    "start": 148,
+    "end": 143,
+    "type": "relationship"
+  },
+  {
+    "id": 100172,
+    "label": "\u041a\u041e\u041d\u0426\u0415\u041d\u0422\u0420\u0418\u0420\u0423\u0415\u0422\u0421\u042f_\u0412",
+    "properties": {},
+    "start": 139,
+    "end": 91,
+    "type": "relationship"
+  },
+  {
+    "id": 100173,
+    "label": "\u0421\u041f\u041e\u0421\u041e\u0411\u0421\u0422\u0412\u0423\u0415\u0422_\u041e\u0411\u0420\u0410\u0417\u041e\u0412\u0410\u041d\u0418\u042e",
+    "properties": {},
+    "start": 139,
+    "end": 149,
+    "type": "relationship"
+  },
+  {
+    "id": 100174,
+    "label": "\u0420\u0410\u0421\u041f\u0410\u0414\u0410\u0415\u0422\u0421\u042f_\u041d\u0410",
+    "properties": {},
+    "start": 131,
+    "end": 150,
+    "type": "relationship"
+  },
+  {
+    "id": 100175,
+    "label": "\u0420\u0410\u0421\u041f\u0410\u0414\u0410\u0415\u0422\u0421\u042f_\u041d\u0410",
+    "properties": {},
+    "start": 131,
+    "end": 151,
+    "type": "relationship"
+  },
+  {
+    "id": 100176,
+    "label": "\u0420\u0410\u0421\u041f\u0410\u0414\u0410\u0415\u0422\u0421\u042f_\u041d\u0410",
+    "properties": {},
+    "start": 131,
+    "end": 152,
+    "type": "relationship"
+  },
+  {
+    "id": 100177,
+    "label": "\u0420\u0410\u0421\u041f\u0410\u0414\u0410\u0415\u0422\u0421\u042f_\u041d\u0410",
+    "properties": {},
+    "start": 131,
+    "end": 153,
+    "type": "relationship"
+  },
+  {
+    "id": 100178,
+    "label": "\u041f\u041e\u041b\u0423\u0427\u0410\u0415\u0422\u0421\u042f_\u041f\u0420\u0418",
+    "properties": {},
+    "start": 154,
+    "end": 157,
+    "type": "relationship"
+  },
+  {
+    "id": 100179,
+    "label": "\u041e\u0411\u0415\u0414\u041d\u042f\u0415\u0422\u0421\u042f_\u0412",
+    "properties": {},
+    "start": 155,
+    "end": 164,
+    "type": "relationship"
+  },
+  {
+    "id": 100180,
+    "label": "\u0412\u0415\u0414\u0415\u0422\u0421\u042f_\u0411\u0415\u0417",
+    "properties": {},
+    "start": 158,
+    "end": 159,
+    "type": "relationship"
+  },
+  {
+    "id": 100181,
+    "label": "\u041f\u0420\u0418\u041c\u0415\u041d\u042f\u0415\u0422\u0421\u042f_\u041d\u0410",
+    "properties": {},
+    "start": 160,
+    "end": 159,
+    "type": "relationship"
+  },
+  {
+    "id": 100182,
+    "label": "\u041a\u041e\u041d\u0426\u0415\u041d\u0422\u0420\u0418\u0420\u0423\u0415\u0422\u0421\u042f_\u0412",
+    "properties": {},
+    "start": 132,
+    "end": 153,
+    "type": "relationship"
+  },
+  {
+    "id": 100183,
+    "label": "\u041a\u041e\u041d\u0426\u0415\u041d\u0422\u0420\u0418\u0420\u0423\u0415\u0422\u0421\u042f_\u0412",
+    "properties": {},
+    "start": 133,
+    "end": 153,
+    "type": "relationship"
+  },
+  {
+    "id": 100184,
+    "label": "\u0421\u0412\u042f\u0417\u042b\u0412\u0410\u0415\u0422",
+    "properties": {},
+    "start": 140,
+    "end": 143,
+    "type": "relationship"
+  },
+  {
+    "id": 100185,
+    "label": "\u0412\u0417\u0410\u0418\u041c\u041e\u0414\u0415\u0419\u0421\u0422\u0412\u0423\u0415\u0422_\u0421",
+    "properties": {},
+    "start": 143,
+    "end": 142,
+    "type": "relationship"
+  },
+  {
+    "id": 100186,
+    "label": "\u0421\u041e\u0414\u0415\u0420\u0416\u0418\u0422",
+    "properties": {},
+    "start": 91,
+    "end": 139,
+    "type": "relationship"
+  },
+  {
+    "id": 100187,
+    "label": "\u0421\u041e\u0414\u0415\u0420\u0416\u0418\u0422",
+    "properties": {},
+    "start": 91,
+    "end": 140,
+    "type": "relationship"
+  },
+  {
+    "id": 100188,
+    "label": "\u041c\u0415\u0422\u0410\u041b\u041b\u0418\u0417\u0418\u0420\u041e\u0412\u0410\u041d",
+    "properties": {},
+    "start": 137,
+    "end": 134,
+    "type": "relationship"
+  },
+  {
+    "id": 100189,
+    "label": "\u041f\u0420\u0418\u041c\u0415\u041d\u042f\u0415\u0422\u0421\u042f_\u0412",
+    "properties": {},
+    "start": 133,
+    "end": 2,
+    "type": "relationship"
+  },
+  {
+    "id": 100190,
+    "label": "\u041f\u0420\u0418\u041c\u0415\u041d\u042f\u0415\u0422\u0421\u042f_\u0412",
+    "properties": {},
+    "start": 133,
+    "end": 3,
+    "type": "relationship"
+  },
+  {
+    "id": 100191,
+    "label": "\u041f\u0420\u0418\u041c\u0415\u041d\u042f\u0415\u0422\u0421\u042f_\u0412",
+    "properties": {},
+    "start": 133,
+    "end": 5,
+    "type": "relationship"
+  },
+  {
+    "id": 100192,
+    "label": "\u041f\u0420\u0418\u041c\u0415\u041d\u042f\u0415\u0422\u0421\u042f_\u0412",
+    "properties": {},
+    "start": 133,
+    "end": 6,
+    "type": "relationship"
+  },
+  {
+    "id": 100193,
+    "label": "\u041f\u0420\u0418\u041c\u0415\u041d\u042f\u0415\u0422\u0421\u042f_\u0412",
+    "properties": {},
+    "start": 133,
+    "end": 7,
+    "type": "relationship"
+  },
+  {
+    "id": 100194,
+    "label": "\u041f\u0420\u0418\u041c\u0415\u041d\u042f\u0415\u0422\u0421\u042f_\u0412",
+    "properties": {},
+    "start": 133,
+    "end": 8,
+    "type": "relationship"
+  },
+  {
+    "id": 100195,
+    "label": "\u041e\u0413\u0420\u0410\u041d\u0418\u0427\u0418\u0412\u0410\u041b_\u041f\u0420\u0418\u041c\u0415\u041d\u0415\u041d\u0418\u0415",
+    "properties": {},
+    "start": 4,
+    "end": 133,
+    "type": "relationship"
+  },
+  {
+    "id": 100196,
+    "label": "\u041e\u0420\u0413\u0410\u041d\u0418\u0417\u041e\u0412\u0410\u041b\u0410_\u041f\u0420\u041e\u0418\u0417\u0412\u041e\u0414\u0421\u0422\u0412\u041e_\u041d\u0410",
+    "properties": {},
+    "start": 9,
+    "end": 10,
+    "type": "relationship"
+  },
+  {
+    "id": 100197,
+    "label": "\u041e\u0420\u0413\u0410\u041d\u0418\u0417\u041e\u0412\u0410\u041b\u0410_\u041f\u0420\u041e\u0418\u0417\u0412\u041e\u0414\u0421\u0422\u0412\u041e_\u041d\u0410",
+    "properties": {},
+    "start": 9,
+    "end": 11,
+    "type": "relationship"
+  },
+  {
+    "id": 100198,
+    "label": "\u041e\u0420\u0413\u0410\u041d\u0418\u0417\u041e\u0412\u0410\u041b\u0410_\u041f\u0420\u041e\u0418\u0417\u0412\u041e\u0414\u0421\u0422\u0412\u041e_\u041d\u0410",
+    "properties": {},
+    "start": 9,
+    "end": 12,
+    "type": "relationship"
+  },
+  {
+    "id": 100199,
+    "label": "\u042f\u0412\u041b\u042f\u0415\u0422\u0421\u042f_\u041c\u0415\u0421\u0422\u041e\u0420\u041e\u0416\u0414\u0415\u041d\u0418\u0415\u041c",
+    "properties": {},
+    "start": 13,
+    "end": 133,
+    "type": "relationship"
+  },
+  {
+    "id": 100200,
+    "label": "\u041e\u041f\u0418\u0421\u0410\u041b",
+    "properties": {},
+    "start": 14,
+    "end": 133,
+    "type": "relationship"
+  },
+  {
+    "id": 100201,
+    "label": "\u041e\u041f\u0418\u0421\u0410\u041b",
+    "properties": {},
+    "start": 15,
+    "end": 133,
+    "type": "relationship"
+  },
+  {
+    "id": 100202,
+    "label": "\u0421\u041e\u0414\u0415\u0420\u0416\u0410\u0422",
+    "properties": {},
+    "start": 16,
+    "end": 133,
+    "type": "relationship"
+  },
+  {
+    "id": 100203,
+    "label": "\u041d\u0410\u0425\u041e\u0414\u042f\u0422\u0421\u042f_\u0412",
+    "properties": {},
+    "start": 16,
+    "end": 17,
+    "type": "relationship"
+  },
+  {
+    "id": 100204,
+    "label": "\u0412\u0425\u041e\u0414\u0418\u0422_\u0412_\u0421\u041e\u0421\u0422\u0410\u0412",
+    "properties": {},
+    "start": 133,
+    "end": 18,
+    "type": "relationship"
+  },
+  {
+    "id": 100205,
+    "label": "\u0418\u0421\u041f\u041e\u041b\u042c\u0417\u0423\u0415\u0422\u0421\u042f_\u0414\u041b\u042f",
+    "properties": {},
+    "start": 19,
+    "end": 133,
+    "type": "relationship"
+  },
+  {
+    "id": 100206,
+    "label": "\u0421\u041e\u0414\u0415\u0420\u0416\u0410\u0422",
+    "properties": {},
+    "start": 20,
+    "end": 133,
+    "type": "relationship"
+  },
+  {
+    "id": 100207,
+    "label": "\u041f\u041e\u0421\u0412\u042f\u0429\u0415\u041d\u0410",
+    "properties": {},
+    "start": 21,
+    "end": 22,
+    "type": "relationship"
+  },
+  {
+    "id": 100208,
+    "label": "\u0421\u041e\u0414\u0415\u0420\u0416\u0410\u0422",
+    "properties": {},
+    "start": 23,
+    "end": 133,
+    "type": "relationship"
+  },
+  {
+    "id": 100209,
+    "label": "\u041f\u0420\u041e\u0418\u0417\u0412\u041e\u0414\u042f\u0422\u0421\u042f_\u0418\u0417",
+    "properties": {},
+    "start": 24,
+    "end": 133,
+    "type": "relationship"
+  },
+  {
+    "id": 100210,
+    "label": "\u042f\u0412\u041b\u042f\u0415\u0422\u0421\u042f",
+    "properties": {},
+    "start": 25,
+    "end": 26,
+    "type": "relationship"
+  },
+  {
+    "id": 100211,
+    "label": "\u0414\u0410\u041b_\u041d\u0410\u0417\u0412\u0410\u041d\u0418\u0415",
+    "properties": {},
+    "start": 27,
+    "end": 133,
+    "type": "relationship"
+  },
+  {
+    "id": 100212,
+    "label": "\u042f\u0412\u041b\u042f\u0415\u0422\u0421\u042f_\u041f\u041e\u0421\u0422\u0410\u0412\u0429\u0418\u041a\u041e\u041c",
+    "properties": {},
+    "start": 28,
+    "end": 133,
+    "type": "relationship"
+  },
+  {
+    "id": 100213,
+    "label": "\u0414\u041e\u0411\u042b\u0412\u0410\u042e\u0422",
+    "properties": {},
+    "start": 29,
+    "end": 133,
+    "type": "relationship"
+  },
+  {
+    "id": 100214,
+    "label": "\u0420\u0410\u0417\u0420\u0410\u0411\u0410\u0422\u042b\u0412\u0410\u041b\u0418",
+    "properties": {},
+    "start": 30,
+    "end": 13,
+    "type": "relationship"
+  },
+  {
+    "id": 100215,
+    "label": "\u041f\u041e\u0414\u0414\u0415\u0420\u0416\u0410\u041b_\u0418\u0417\u0414\u0410\u041d\u0418\u0415",
+    "properties": {},
+    "start": 11,
+    "end": 21,
+    "type": "relationship"
+  },
+  {
+    "id": 100216,
+    "label": "\u0421\u041e\u0414\u0415\u0420\u0416\u0410\u0422",
+    "properties": {},
+    "start": 16,
+    "end": 35,
+    "type": "relationship"
+  },
+  {
+    "id": 100217,
+    "label": "\u0421\u041e\u0414\u0415\u0420\u0416\u0410\u0422",
+    "properties": {},
+    "start": 16,
+    "end": 36,
+    "type": "relationship"
+  },
+  {
+    "id": 100218,
+    "label": "\u0421\u041e\u0414\u0415\u0420\u0416\u0410\u0422",
+    "properties": {},
+    "start": 16,
+    "end": 37,
+    "type": "relationship"
+  },
+  {
+    "id": 100219,
+    "label": "\u041e\u0411\u041e\u0413\u0410\u0429\u0410\u042e\u0422_\u041c\u0415\u0422\u041e\u0414\u041e\u041c",
+    "properties": {},
+    "start": 16,
+    "end": 62,
+    "type": "relationship"
+  },
+  {
+    "id": 100220,
+    "label": "\u0420\u0410\u0421\u041f\u041e\u041b\u041e\u0416\u0415\u041d\u042b_\u041d\u0410",
+    "properties": {},
+    "start": 32,
+    "end": 39,
+    "type": "relationship"
+  },
+  {
+    "id": 100221,
+    "label": "\u0411\u041e\u0413\u0410\u0422\u042b",
+    "properties": {},
+    "start": 32,
+    "end": 41,
+    "type": "relationship"
+  },
+  {
+    "id": 100222,
+    "label": "\u0421\u041e\u0414\u0415\u0420\u0416\u0418\u0422",
+    "properties": {},
+    "start": 17,
+    "end": 16,
+    "type": "relationship"
+  },
+  {
+    "id": 100223,
+    "label": "\u0421\u041e\u0414\u0415\u0420\u0416\u0418\u0422",
+    "properties": {},
+    "start": 17,
+    "end": 32,
+    "type": "relationship"
+  },
+  {
+    "id": 100224,
+    "label": "\u0421\u041e\u0414\u0415\u0420\u0416\u0418\u0422",
+    "properties": {},
+    "start": 34,
+    "end": 16,
+    "type": "relationship"
+  },
+  {
+    "id": 100225,
+    "label": "\u0421\u041e\u0414\u0415\u0420\u0416\u0418\u0422",
+    "properties": {},
+    "start": 34,
+    "end": 32,
+    "type": "relationship"
+  },
+  {
+    "id": 100226,
+    "label": "\u0418\u041c\u0415\u0415\u0422",
+    "properties": {},
+    "start": 40,
+    "end": 32,
+    "type": "relationship"
+  },
+  {
+    "id": 100227,
+    "label": "\u0421\u041e\u0414\u0415\u0420\u0416\u0418\u0422",
+    "properties": {},
+    "start": 42,
+    "end": 43,
+    "type": "relationship"
+  },
+  {
+    "id": 100228,
+    "label": "\u042f\u0412\u041b\u042f\u0415\u0422\u0421\u042f",
+    "properties": {},
+    "start": 44,
+    "end": 43,
+    "type": "relationship"
+  },
+  {
+    "id": 100229,
+    "label": "\u0421\u041e\u0414\u0415\u0420\u0416\u0418\u0422",
+    "properties": {},
+    "start": 45,
+    "end": 46,
+    "type": "relationship"
+  },
+  {
+    "id": 100230,
+    "label": "\u0412\u041a\u041b\u042e\u0427\u0410\u0415\u0422",
+    "properties": {},
+    "start": 47,
+    "end": 48,
+    "type": "relationship"
+  },
+  {
+    "id": 100231,
+    "label": "\u0412\u041a\u041b\u042e\u0427\u0410\u0415\u0422",
+    "properties": {},
+    "start": 47,
+    "end": 49,
+    "type": "relationship"
+  },
+  {
+    "id": 100232,
+    "label": "\u0421\u041e\u0414\u0415\u0420\u0416\u0418\u0422",
+    "properties": {},
+    "start": 50,
+    "end": 51,
+    "type": "relationship"
+  },
+  {
+    "id": 100233,
+    "label": "\u0425\u0410\u0420\u0410\u041a\u0422\u0415\u0420\u0418\u0417\u0423\u0415\u0422\u0421\u042f",
+    "properties": {},
+    "start": 52,
+    "end": 45,
+    "type": "relationship"
+  },
+  {
+    "id": 100234,
+    "label": "\u0420\u0410\u0421\u041f\u041e\u041b\u041e\u0416\u0415\u041d\u041e_\u0412",
+    "properties": {},
+    "start": 53,
+    "end": 34,
+    "type": "relationship"
+  },
+  {
+    "id": 100235,
+    "label": "\u0420\u0410\u0421\u041f\u041e\u041b\u041e\u0416\u0415\u041d_\u0412",
+    "properties": {},
+    "start": 54,
+    "end": 55,
+    "type": "relationship"
+  },
+  {
+    "id": 100236,
+    "label": "\u0420\u0410\u0421\u041f\u041e\u041b\u041e\u0416\u0415\u041d_\u0412",
+    "properties": {},
+    "start": 54,
+    "end": 56,
+    "type": "relationship"
+  },
+  {
+    "id": 100237,
+    "label": "\u041e\u0422\u041d\u041e\u0421\u0418\u0422\u0421\u042f_\u041a",
+    "properties": {},
+    "start": 57,
+    "end": 42,
+    "type": "relationship"
+  },
+  {
+    "id": 100238,
+    "label": "\u0420\u0410\u0421\u041f\u041e\u041b\u041e\u0416\u0415\u041d\u041e_\u0412",
+    "properties": {},
+    "start": 58,
+    "end": 17,
+    "type": "relationship"
+  },
+  {
+    "id": 100239,
+    "label": "\u0420\u0410\u0421\u041f\u041e\u041b\u041e\u0416\u0415\u041d\u041e_\u0412",
+    "properties": {},
+    "start": 133,
+    "end": 34,
+    "type": "relationship"
+  },
+  {
+    "id": 100240,
+    "label": "\u042f\u0412\u041b\u042f\u0415\u0422\u0421\u042f",
+    "properties": {},
+    "start": 60,
+    "end": 43,
+    "type": "relationship"
+  },
+  {
+    "id": 100241,
+    "label": "\u041e\u0411\u0420\u0410\u0417\u0423\u042e\u0422\u0421\u042f_\u0412",
+    "properties": {},
+    "start": 16,
+    "end": 17,
+    "type": "relationship"
+  },
+  {
+    "id": 100242,
+    "label": "\u0411\u041e\u0413\u0410\u0427\u0415",
+    "properties": {},
+    "start": 32,
+    "end": 16,
+    "type": "relationship"
+  },
+  {
+    "id": 100243,
+    "label": "\u0421\u041e\u0414\u0415\u0420\u0416\u0410\u0422",
+    "properties": {},
+    "start": 39,
+    "end": 32,
+    "type": "relationship"
+  },
+  {
+    "id": 100244,
+    "label": "\u0421\u041e\u0414\u0415\u0420\u0416\u0418\u0422",
+    "properties": {},
+    "start": 43,
+    "end": 45,
+    "type": "relationship"
+  },
+  {
+    "id": 100245,
+    "label": "\u0421\u041e\u0414\u0415\u0420\u0416\u0418\u0422",
+    "properties": {},
+    "start": 43,
+    "end": 46,
+    "type": "relationship"
+  },
+  {
+    "id": 100246,
+    "label": "\u0418\u041c\u0415\u0415\u0422",
+    "properties": {},
+    "start": 48,
+    "end": 45,
+    "type": "relationship"
+  },
+  {
+    "id": 100247,
+    "label": "\u0418\u041c\u0415\u0415\u0422",
+    "properties": {},
+    "start": 49,
+    "end": 45,
+    "type": "relationship"
+  },
+  {
+    "id": 100248,
+    "label": "\u0421\u041e\u0414\u0415\u0420\u0416\u0418\u0422",
+    "properties": {},
+    "start": 51,
+    "end": 45,
+    "type": "relationship"
+  },
+  {
+    "id": 100249,
+    "label": "\u042f\u0412\u041b\u042f\u0415\u0422\u0421\u042f_\u0418\u0421\u0422\u041e\u0427\u041d\u0418\u041a\u041e\u041c",
+    "properties": {},
+    "start": 54,
+    "end": 41,
+    "type": "relationship"
+  },
+  {
+    "id": 100250,
+    "label": "\u0414\u041e\u0411\u042b\u0412\u0410\u0415\u0422",
+    "properties": {},
+    "start": 55,
+    "end": 16,
+    "type": "relationship"
+  },
+  {
+    "id": 100251,
+    "label": "\u0414\u041e\u0411\u042b\u0412\u0410\u0415\u0422",
+    "properties": {},
+    "start": 56,
+    "end": 16,
+    "type": "relationship"
+  },
+  {
+    "id": 100252,
+    "label": "\u041f\u0420\u0418\u0412\u041e\u0414\u0418\u0422_\u041a_\u041f\u041e\u041b\u0423\u0427\u0415\u041d\u0418\u042e",
+    "properties": {},
+    "start": 158,
+    "end": 243,
+    "type": "relationship"
+  },
+  {
+    "id": 100253,
+    "label": "\u0418\u0421\u041f\u041e\u041b\u042c\u0417\u0423\u042e\u0422\u0421\u042f_\u0414\u041b\u042f",
+    "properties": {},
+    "start": 242,
+    "end": 155,
+    "type": "relationship"
+  },
+  {
+    "id": 100254,
+    "label": "\u0412\u041e\u0417\u0412\u0420\u0410\u0429\u0410\u0415\u0422\u0421\u042f_\u041d\u0410",
+    "properties": {},
+    "start": 243,
+    "end": 66,
+    "type": "relationship"
+  },
+  {
+    "id": 100255,
+    "label": "\u0421\u041e\u0414\u0415\u0420\u0416\u0418\u0422",
+    "properties": {},
+    "start": 66,
+    "end": 243,
+    "type": "relationship"
+  },
+  {
+    "id": 100256,
+    "label": "\u041d\u0410\u041f\u0420\u0410\u0412\u041b\u042f\u0415\u0422\u0421\u042f_\u0412",
+    "properties": {},
+    "start": 155,
+    "end": 242,
+    "type": "relationship"
+  },
+  {
+    "id": 100257,
+    "label": "\u041e\u0411\u0420\u0410\u0417\u0423\u0415\u0422\u0421\u042f_\u041f\u0420\u0418",
+    "properties": {},
+    "start": 246,
+    "end": 158,
+    "type": "relationship"
+  },
+  {
+    "id": 100258,
+    "label": "\u041f\u041e\u041b\u0423\u0427\u0410\u0415\u0422\u0421\u042f_\u041f\u0420\u0418",
+    "properties": {},
+    "start": 154,
+    "end": 158,
+    "type": "relationship"
+  },
+  {
+    "id": 100259,
+    "label": "\u041f\u0420\u0418\u041c\u0415\u041d\u042f\u0415\u0422\u0421\u042f_\u0414\u041b\u042f",
+    "properties": {},
+    "start": 201,
+    "end": 250,
+    "type": "relationship"
+  },
+  {
+    "id": 100260,
+    "label": "\u0418\u0421\u041f\u041e\u041b\u042c\u0417\u0423\u0415\u0422\u0421\u042f_\u0414\u041b\u042f",
+    "properties": {},
+    "start": 249,
+    "end": 238,
+    "type": "relationship"
+  },
+  {
+    "id": 100261,
+    "label": "\u041f\u0415\u0420\u0415\u0420\u0410\u0411\u0410\u0422\u042b\u0412\u0410\u042e\u0422\u0421\u042f_\u041c\u0415\u0422\u041e\u0414\u041e\u041c",
+    "properties": {},
+    "start": 250,
+    "end": 201,
+    "type": "relationship"
+  },
+  {
+    "id": 100262,
+    "label": "\u041f\u041e\u041b\u0423\u0427\u0410\u0415\u0422\u0421\u042f_\u041f\u0420\u0418",
+    "properties": {},
+    "start": 104,
+    "end": 250,
+    "type": "relationship"
+  },
+  {
+    "id": 100263,
+    "label": "\u041f\u0420\u0418\u041c\u0415\u041d\u042f\u0415\u0422\u0421\u042f_\u0414\u041b\u042f",
+    "properties": {},
+    "start": 218,
+    "end": 250,
+    "type": "relationship"
+  },
+  {
+    "id": 100264,
+    "label": "\u0418\u0421\u041f\u041e\u041b\u042c\u0417\u0423\u0415\u0422\u0421\u042f_\u0414\u041b\u042f",
+    "properties": {},
+    "start": 253,
+    "end": 250,
+    "type": "relationship"
+  },
+  {
+    "id": 100265,
+    "label": "\u041f\u0420\u0418\u041c\u0415\u041d\u042f\u0415\u0422\u0421\u042f_\u0414\u041b\u042f",
+    "properties": {},
+    "start": 215,
+    "end": 250,
+    "type": "relationship"
+  },
+  {
+    "id": 100266,
+    "label": "\u0418\u0421\u041f\u041e\u041b\u042c\u0417\u0423\u0415\u0422\u0421\u042f_\u0414\u041b\u042f",
+    "properties": {},
+    "start": 234,
+    "end": 249,
+    "type": "relationship"
+  },
+  {
+    "id": 100267,
+    "label": "\u041f\u0420\u041e\u0418\u0417\u0412\u041e\u0414\u0418\u0422\u0421\u042f_\u0427\u0415\u0420\u0415\u0417",
+    "properties": {},
+    "start": 238,
+    "end": 249,
+    "type": "relationship"
+  },
+  {
+    "id": 100268,
+    "label": "\u041f\u041e\u041b\u0423\u0427\u0410\u0415\u0422\u0421\u042f_\u0418\u0417",
+    "properties": {},
+    "start": 237,
+    "end": 238,
+    "type": "relationship"
+  },
+  {
+    "id": 100269,
+    "label": "\u0418\u0421\u041f\u041e\u041b\u042c\u0417\u0423\u0415\u0422\u0421\u042f_\u041a\u0410\u041a",
+    "properties": {},
+    "start": 258,
+    "end": 259,
+    "type": "relationship"
+  },
+  {
+    "id": 100270,
+    "label": "\u041f\u0420\u0418\u041c\u0415\u041d\u042f\u0415\u0422\u0421\u042f_\u0412",
+    "properties": {},
+    "start": 259,
+    "end": 154,
+    "type": "relationship"
+  },
+  {
+    "id": 100271,
+    "label": "\u0418\u0421\u041f\u041e\u041b\u042c\u0417\u0423\u0415\u0422\u0421\u042f_\u0414\u041b\u042f",
+    "properties": {},
+    "start": 260,
+    "end": 249,
+    "type": "relationship"
+  },
+  {
+    "id": 100272,
+    "label": "\u0418\u0421\u041f\u041e\u041b\u042c\u0417\u0423\u0415\u0422\u0421\u042f_\u0414\u041b\u042f",
+    "properties": {},
+    "start": 242,
+    "end": 193,
+    "type": "relationship"
+  },
+  {
+    "id": 100273,
+    "label": "\u041f\u0415\u0420\u0415\u0420\u0410\u0411\u0410\u0422\u042b\u0412\u0410\u0415\u0422\u0421\u042f_\u0412",
+    "properties": {},
+    "start": 155,
+    "end": 242,
+    "type": "relationship"
+  },
+  {
+    "id": 100274,
+    "label": "\u0421\u041e\u0414\u0415\u0420\u0416\u0418\u0422",
+    "properties": {},
+    "start": 155,
+    "end": 140,
+    "type": "relationship"
+  },
+  {
+    "id": 100275,
+    "label": "\u041e\u0411\u0420\u0410\u0417\u0423\u0415\u0422\u0421\u042f_\u041f\u0420\u0418",
+    "properties": {},
+    "start": 246,
+    "end": 193,
+    "type": "relationship"
+  },
+  {
+    "id": 100276,
+    "label": "\u041f\u041e\u041b\u0423\u0427\u0410\u0415\u0422\u0421\u042f_\u041f\u0420\u0418",
+    "properties": {},
+    "start": 243,
+    "end": 193,
+    "type": "relationship"
+  },
+  {
+    "id": 100277,
+    "label": "\u0423\u0427\u0410\u0421\u0422\u0412\u0423\u0415\u0422_\u0412",
+    "properties": {},
+    "start": 173,
+    "end": 193,
+    "type": "relationship"
+  },
+  {
+    "id": 100278,
+    "label": "\u0412\u041b\u0418\u042f\u0415\u0422_\u041d\u0410",
+    "properties": {},
+    "start": 140,
+    "end": 246,
+    "type": "relationship"
+  },
+  {
+    "id": 100279,
+    "label": "\u0421\u041f\u041e\u0421\u041e\u0411\u0421\u0422\u0412\u0423\u0415\u0422",
+    "properties": {},
+    "start": 187,
+    "end": 193,
+    "type": "relationship"
+  },
+  {
+    "id": 100280,
+    "label": "\u041f\u041e\u041b\u0423\u0427\u0410\u0415\u0422\u0421\u042f_\u0418\u0417",
+    "properties": {},
+    "start": 188,
+    "end": 155,
+    "type": "relationship"
+  },
+  {
+    "id": 100281,
+    "label": "\u041f\u041e\u0414\u0412\u0415\u0420\u0413\u0410\u0415\u0422\u0421\u042f",
+    "properties": {},
+    "start": 188,
+    "end": 195,
+    "type": "relationship"
+  },
+  {
+    "id": 100282,
+    "label": "\u041e\u0411\u0420\u0410\u0417\u0423\u0415\u0422\u0421\u042f_\u041f\u0420\u0418",
+    "properties": {},
+    "start": 189,
+    "end": 194,
+    "type": "relationship"
+  },
+  {
+    "id": 100283,
+    "label": "\u041e\u0411\u0420\u0410\u0417\u0423\u0415\u0422\u0421\u042f_\u041f\u0420\u0418",
+    "properties": {},
+    "start": 190,
+    "end": 193,
+    "type": "relationship"
+  },
+  {
+    "id": 100284,
+    "label": "\u041f\u041e\u041b\u0423\u0427\u0410\u0415\u0422\u0421\u042f_\u041f\u0420\u0418",
+    "properties": {},
+    "start": 104,
+    "end": 159,
+    "type": "relationship"
+  },
+  {
+    "id": 100285,
+    "label": "\u042f\u0412\u041b\u042f\u0415\u0422\u0421\u042f_\u041f\u0420\u041e\u0414\u0423\u041a\u0422\u041e\u041c",
+    "properties": {},
+    "start": 66,
+    "end": 193,
+    "type": "relationship"
+  },
+  {
+    "id": 100286,
+    "label": "\u041e\u0421\u041d\u041e\u0412\u0410\u041d\u041e_\u041d\u0410",
+    "properties": {},
+    "start": 193,
+    "end": 196,
+    "type": "relationship"
+  },
+  {
+    "id": 100287,
+    "label": "\u0425\u0410\u0420\u0410\u041a\u0422\u0415\u0420\u0418\u0417\u0423\u042e\u0422",
+    "properties": {},
+    "start": 197,
+    "end": 193,
+    "type": "relationship"
+  },
+  {
+    "id": 100288,
+    "label": "\u041f\u0420\u0418\u041c\u0415\u041d\u042f\u0415\u0422\u0421\u042f_\u0414\u041b\u042f",
+    "properties": {},
+    "start": 160,
+    "end": 193,
+    "type": "relationship"
+  },
+  {
+    "id": 100289,
+    "label": "\u0423\u0421\u041a\u041e\u0420\u042f\u0415\u0422",
+    "properties": {},
+    "start": 200,
+    "end": 193,
+    "type": "relationship"
+  },
+  {
+    "id": 100290,
+    "label": "\u041f\u0420\u0418\u0412\u041e\u0414\u0418\u0422_\u041a",
+    "properties": {},
+    "start": 194,
+    "end": 189,
+    "type": "relationship"
+  },
+  {
+    "id": 100291,
+    "label": "\u041f\u0420\u041e\u0412\u041e\u0414\u0418\u0422\u0421\u042f_\u0412",
+    "properties": {},
+    "start": 195,
+    "end": 242,
+    "type": "relationship"
+  },
+  {
+    "id": 100292,
+    "label": "\u041e\u0411\u0420\u0410\u0417\u0423\u0415\u0422\u0421\u042f_\u041f\u0420\u0418",
+    "properties": {},
+    "start": 190,
+    "end": 159,
+    "type": "relationship"
+  },
+  {
+    "id": 100293,
+    "label": "\u0421\u041e\u0414\u0415\u0420\u0416\u0418\u0422",
+    "properties": {},
+    "start": 190,
+    "end": 108,
+    "type": "relationship"
+  },
+  {
+    "id": 100294,
+    "label": "\u041f\u041e\u041b\u0423\u0427\u0410\u0415\u0422\u0421\u042f_\u041f\u0420\u0418",
+    "properties": {},
+    "start": 112,
+    "end": 159,
+    "type": "relationship"
+  },
+  {
+    "id": 100295,
+    "label": "\u0425\u0410\u0420\u0410\u041a\u0422\u0415\u0420\u0418\u0417\u0423\u0415\u0422\u0421\u042f",
+    "properties": {},
+    "start": 112,
+    "end": 106,
+    "type": "relationship"
+  },
+  {
+    "id": 100296,
+    "label": "\u041e\u0422\u041b\u0418\u0427\u0410\u0415\u0422\u0421\u042f_\u041e\u0422",
+    "properties": {},
+    "start": 167,
+    "end": 91,
+    "type": "relationship"
+  },
+  {
+    "id": 100297,
+    "label": "\u0421\u041d\u0418\u0416\u0410\u0415\u0422",
+    "properties": {},
+    "start": 167,
+    "end": 117,
+    "type": "relationship"
+  },
+  {
+    "id": 100298,
+    "label": "\u041e\u041f\u0420\u0415\u0414\u0415\u041b\u042f\u0415\u0422",
+    "properties": {},
+    "start": 108,
+    "end": 118,
+    "type": "relationship"
+  },
+  {
+    "id": 100299,
+    "label": "\u041e\u041f\u0420\u0415\u0414\u0415\u041b\u042f\u0415\u0422",
+    "properties": {},
+    "start": 108,
+    "end": 119,
+    "type": "relationship"
+  },
+  {
+    "id": 100300,
+    "label": "\u0425\u0410\u0420\u0410\u041a\u0422\u0415\u0420\u0418\u0417\u0423\u0415\u0422",
+    "properties": {},
+    "start": 115,
+    "end": 102,
+    "type": "relationship"
+  },
+  {
+    "id": 100301,
+    "label": "\u0425\u0410\u0420\u0410\u041a\u0422\u0415\u0420\u0418\u0417\u0423\u0415\u0422",
+    "properties": {},
+    "start": 116,
+    "end": 101,
+    "type": "relationship"
+  },
+  {
+    "id": 100302,
+    "label": "\u041e\u0422\u041b\u0418\u0427\u0410\u0415\u0422\u0421\u042f_\u041e\u0422",
+    "properties": {},
+    "start": 117,
+    "end": 115,
+    "type": "relationship"
+  },
+  {
+    "id": 100303,
+    "label": "\u041e\u0422\u041b\u0418\u0427\u0410\u0415\u0422\u0421\u042f_\u041e\u0422",
+    "properties": {},
+    "start": 117,
+    "end": 116,
+    "type": "relationship"
+  },
+  {
+    "id": 100304,
+    "label": "\u041f\u0420\u0415\u041e\u0411\u041b\u0410\u0414\u0410\u042e\u0422_\u0412",
+    "properties": {},
+    "start": 118,
+    "end": 159,
+    "type": "relationship"
+  },
+  {
+    "id": 100305,
+    "label": "\u041e\u041f\u0420\u0415\u0414\u0415\u041b\u042f\u042e\u0422\u0421\u042f",
+    "properties": {},
+    "start": 119,
+    "end": 100,
+    "type": "relationship"
+  },
+  {
+    "id": 100306,
+    "label": "\u041f\u041e\u0417\u0412\u041e\u041b\u042f\u0415\u0422_\u0418\u0417\u0423\u0427\u0410\u0422\u042c",
+    "properties": {},
+    "start": 120,
+    "end": 110,
+    "type": "relationship"
+  },
+  {
+    "id": 100307,
+    "label": "\u0418\u0421\u041f\u041e\u041b\u042c\u0417\u0423\u0415\u0422\u0421\u042f_\u0414\u041b\u042f",
+    "properties": {},
+    "start": 121,
+    "end": 122,
+    "type": "relationship"
+  },
+  {
+    "id": 100308,
+    "label": "\u041e\u0411\u041d\u0410\u0420\u0423\u0416\u0418\u0412\u0410\u042e\u0422\u0421\u042f_\u0412",
+    "properties": {},
+    "start": 122,
+    "end": 91,
+    "type": "relationship"
+  },
+  {
+    "id": 100309,
+    "label": "\u041e\u0411\u0420\u0410\u0417\u0423\u042e\u0422\u0421\u042f_\u041f\u0420\u0418",
+    "properties": {},
+    "start": 123,
+    "end": 120,
+    "type": "relationship"
+  },
+  {
+    "id": 100310,
+    "label": "\u0414\u041e\u0421\u0422\u0418\u0413\u0410\u0415\u0422\u0421\u042f_\u0412",
+    "properties": {},
+    "start": 124,
+    "end": 159,
+    "type": "relationship"
+  },
+  {
+    "id": 100311,
+    "label": "\u041f\u0420\u0415\u041e\u0411\u041b\u0410\u0414\u0410\u0415\u0422_\u0412",
+    "properties": {},
+    "start": 110,
+    "end": 127,
+    "type": "relationship"
+  },
+  {
+    "id": 100312,
+    "label": "\u041f\u0420\u0415\u041e\u0411\u041b\u0410\u0414\u0410\u0415\u0422_\u0412",
+    "properties": {},
+    "start": 126,
+    "end": 159,
+    "type": "relationship"
+  },
+  {
+    "id": 100313,
+    "label": "\u041e\u0422\u041b\u0418\u0427\u0410\u042e\u0422\u0421\u042f_\u041e\u0422",
+    "properties": {},
+    "start": 127,
+    "end": 91,
+    "type": "relationship"
+  },
+  {
+    "id": 100314,
+    "label": "\u041f\u0420\u041e\u0418\u0417\u0412\u041e\u0414\u0418\u0422",
+    "properties": {},
+    "start": 159,
+    "end": 190,
+    "type": "relationship"
+  },
+  {
+    "id": 100315,
+    "label": "\u041f\u0420\u041e\u0418\u0417\u0412\u041e\u0414\u0418\u0422",
+    "properties": {},
+    "start": 159,
+    "end": 112,
+    "type": "relationship"
+  },
+  {
+    "id": 100316,
+    "label": "\u0418\u0417\u0423\u0427\u0410\u0415\u0422\u0421\u042f_\u0414\u041b\u042f",
+    "properties": {},
+    "start": 129,
+    "end": 190,
+    "type": "relationship"
+  },
+  {
+    "id": 100317,
+    "label": "\u041d\u0410\u0411\u041b\u042e\u0414\u0410\u0415\u0422\u0421\u042f_\u0412",
+    "properties": {},
+    "start": 80,
+    "end": 129,
+    "type": "relationship"
+  },
+  {
+    "id": 100318,
+    "label": "\u0423\u0427\u0410\u0421\u0422\u0412\u0423\u0415\u0422_\u0412",
+    "properties": {},
+    "start": 190,
+    "end": 124,
+    "type": "relationship"
+  },
+  {
+    "id": 100319,
+    "label": "\u0412\u041b\u0418\u042f\u0415\u0422_\u041d\u0410",
+    "properties": {},
+    "start": 112,
+    "end": 115,
+    "type": "relationship"
+  },
+  {
+    "id": 100320,
+    "label": "\u0412\u041b\u0418\u042f\u0415\u0422_\u041d\u0410",
+    "properties": {},
+    "start": 112,
+    "end": 116,
+    "type": "relationship"
+  },
+  {
+    "id": 100321,
+    "label": "\u0418\u0421\u041f\u041e\u041b\u042c\u0417\u0423\u0415\u0422\u0421\u042f_\u041f\u0420\u0418",
+    "properties": {},
+    "start": 167,
+    "end": 159,
+    "type": "relationship"
+  },
+  {
+    "id": 100322,
+    "label": "\u0417\u0410\u0412\u0418\u0421\u0418\u0422_\u041e\u0422",
+    "properties": {},
+    "start": 108,
+    "end": 109,
+    "type": "relationship"
+  },
+  {
+    "id": 100323,
+    "label": "\u041c\u0415\u041d\u042c\u0428\u0415_\u0427\u0415\u041c",
+    "properties": {},
+    "start": 115,
+    "end": 116,
+    "type": "relationship"
+  },
+  {
+    "id": 100324,
+    "label": "\u041e\u041f\u0420\u0415\u0414\u0415\u041b\u042f\u0415\u0422",
+    "properties": {},
+    "start": 116,
+    "end": 101,
+    "type": "relationship"
+  },
+  {
+    "id": 100325,
+    "label": "\u0420\u0410\u0421\u0422\u0415\u0422_\u0421",
+    "properties": {},
+    "start": 117,
+    "end": 106,
+    "type": "relationship"
+  },
+  {
+    "id": 100326,
+    "label": "\u0421\u041e\u0421\u0422\u0410\u0412\u041b\u042f\u042e\u0422",
+    "properties": {},
+    "start": 118,
+    "end": 102,
+    "type": "relationship"
+  },
+  {
+    "id": 100327,
+    "label": "\u0420\u0415\u0413\u0423\u041b\u0418\u0420\u0423\u042e\u0422\u0421\u042f",
+    "properties": {},
+    "start": 119,
+    "end": 107,
+    "type": "relationship"
+  },
+  {
+    "id": 100328,
+    "label": "\u041f\u0420\u0415\u0414\u041e\u0422\u0412\u0420\u0410\u0429\u0410\u0415\u0422",
+    "properties": {},
+    "start": 120,
+    "end": 123,
+    "type": "relationship"
+  },
+  {
+    "id": 100329,
+    "label": "\u041f\u041e\u041a\u0410\u0417\u042b\u0412\u0410\u0415\u0422",
+    "properties": {},
+    "start": 121,
+    "end": 110,
+    "type": "relationship"
+  },
+  {
+    "id": 100330,
+    "label": "\u041f\u041e\u041a\u0410\u0417\u042b\u0412\u0410\u0415\u0422",
+    "properties": {},
+    "start": 121,
+    "end": 126,
+    "type": "relationship"
+  },
+  {
+    "id": 100331,
+    "label": "\u0412\u041a\u041b\u042e\u0427\u0410\u042e\u0422",
+    "properties": {},
+    "start": 122,
+    "end": 123,
+    "type": "relationship"
+  },
+  {
+    "id": 100332,
+    "label": "\u0421\u041e\u0414\u0415\u0420\u0416\u0410\u0422",
+    "properties": {},
+    "start": 123,
+    "end": 102,
+    "type": "relationship"
+  },
+  {
+    "id": 100333,
+    "label": "\u041e\u041f\u0418\u0421\u042b\u0412\u0410\u0415\u0422\u0421\u042f",
+    "properties": {},
+    "start": 124,
+    "end": 100,
+    "type": "relationship"
+  },
+  {
+    "id": 100334,
+    "label": "\u041d\u0410\u0425\u041e\u0414\u0418\u0422\u0421\u042f_\u0412",
+    "properties": {},
+    "start": 110,
+    "end": 127,
+    "type": "relationship"
+  },
+  {
+    "id": 100335,
+    "label": "\u041f\u0420\u0415\u041e\u0411\u041b\u0410\u0414\u0410\u0415\u0422_\u041f\u0420\u0418",
+    "properties": {},
+    "start": 126,
+    "end": 159,
+    "type": "relationship"
+  },
+  {
+    "id": 100336,
+    "label": "\u0421\u041e\u0414\u0415\u0420\u0416\u0410\u0422",
+    "properties": {},
+    "start": 127,
+    "end": 110,
+    "type": "relationship"
+  },
+  {
+    "id": 100337,
+    "label": "\u0414\u0410\u0415\u0422",
+    "properties": {},
+    "start": 159,
+    "end": 126,
+    "type": "relationship"
+  },
+  {
+    "id": 100338,
+    "label": "\u041e\u0411\u0420\u0410\u0417\u0423\u0415\u0422",
+    "properties": {},
+    "start": 129,
+    "end": 190,
+    "type": "relationship"
+  },
+  {
+    "id": 100339,
+    "label": "\u041f\u0420\u0418\u0412\u041e\u0414\u0418\u0422_\u041a",
+    "properties": {},
+    "start": 80,
+    "end": 190,
+    "type": "relationship"
+  }
+]

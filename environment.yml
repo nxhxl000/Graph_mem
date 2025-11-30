@@ -9,6 +9,7 @@ dependencies:
   - nltk
   - pip
   - pip:
+      - chardet
       - spacy
       - pymorphy2
       - pymorphy2-dicts-ru

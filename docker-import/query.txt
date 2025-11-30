@@ -1,0 +1,25 @@
+CALL json_util.load_from_path("/var/lib/memgraph/data_json_utils.json")
+YIELD objects
+UNWIND objects AS o
+CREATE (:Person {first_name: o.first_name, last_name: o.last_name, pets: o.pets});
+
+CALL import_util.json("/var/lib/memgraph/data_import_util.json")
+YIELD nodes, relationships 
+RETURN count(nodes), count(relationships);
+
+MATCH (n:Term)
+WHERE n.name CONTAINS "Норильск" 
+   OR n.name CONTAINS "Талнах" 
+   OR n.name CONTAINS "Надеждинский"
+CALL {
+  WITH n
+  MATCH (n)-[*0..2]-(related)
+  RETURN collect(DISTINCT related.name) AS связанные
+}
+RETURN n.name AS норильский_объект, связанные
+ORDER BY n.name;
+
+MATCH (n:Term)
+OPTIONAL MATCH (n)-[r]->(m)
+WITH n, collect(r) AS rels, collect(m) AS neighbors
+RETURN n, rels, neighbors

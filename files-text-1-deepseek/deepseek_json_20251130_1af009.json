@@ -1,0 +1,281 @@
+{
+  "entities": [
+    {
+      "id": "A91",
+      "text": "шлак"
+    },
+    {
+      "id": "A92",
+      "text": "система FeO-SiO2"
+    },
+    {
+      "id": "A93",
+      "text": "система CoO-SiO2"
+    },
+    {
+      "id": "A94",
+      "text": "система NiO-SiO2"
+    },
+    {
+      "id": "A95",
+      "text": "ортосиликат кобальта"
+    },
+    {
+      "id": "A96",
+      "text": "ферриты кобальта"
+    },
+    {
+      "id": "A97",
+      "text": "система FeO-CaO-SiO2"
+    },
+    {
+      "id": "A98",
+      "text": "вязкость шлаков"
+    },
+    {
+      "id": "A99",
+      "text": "электропроводность шлаков"
+    },
+    {
+      "id": "A100",
+      "text": "константа равновесия"
+    },
+    {
+      "id": "A101",
+      "text": "распределение кобальта"
+    },
+    {
+      "id": "A102",
+      "text": "распределение никеля"
+    },
+    {
+      "id": "A103",
+      "text": "сульфидирование"
+    },
+    {
+      "id": "A104",
+      "text": "шпейза"
+    },
+    {
+      "id": "A105",
+      "text": "фосфидный сплав"
+    },
+    {
+      "id": "A106",
+      "text": "металлизация штейна"
+    },
+    {
+      "id": "A107",
+      "text": "закон действующих масс"
+    },
+    {
+      "id": "A108",
+      "text": "растворимость сульфидов"
+    },
+    {
+      "id": "A109",
+      "text": "парциальное давление кислорода"
+    },
+    {
+      "id": "A110",
+      "text": "оксидная форма никеля"
+    }
+  ],
+  "triples": [
+    {
+      "subject": "A91",
+      "predicate": "изучается в системах",
+      "object": ["A92", "A93", "A94", "A97"]
+    },
+    {
+      "subject": "A92",
+      "predicate": "имеет ликвидус",
+      "object": ["A91"]
+    },
+    {
+      "subject": "A93",
+      "predicate": "содержит",
+      "object": ["A95"]
+    },
+    {
+      "subject": "A94",
+      "predicate": "является тугоплавкой",
+      "object": ["A91"]
+    },
+    {
+      "subject": "A95",
+      "predicate": "плавится при",
+      "object": ["A91"]
+    },
+    {
+      "subject": "A96",
+      "predicate": "устойчивы при",
+      "object": ["A91"]
+    },
+    {
+      "subject": "A97",
+      "predicate": "определяет свойства",
+      "object": ["A91"]
+    },
+    {
+      "subject": "A91",
+      "predicate": "характеризуется",
+      "object": ["A98", "A99"]
+    },
+    {
+      "subject": "A98",
+      "predicate": "зависит от",
+      "object": ["A91"]
+    },
+    {
+      "subject": "A99",
+      "predicate": "связана с",
+      "object": ["A91"]
+    },
+    {
+      "subject": "A100",
+      "predicate": "определяет",
+      "object": ["A101", "A102"]
+    },
+    {
+      "subject": "A101",
+      "predicate": "регулируется",
+      "object": ["A100"]
+    },
+    {
+      "subject": "A102",
+      "predicate": "подчиняется",
+      "object": ["A107"]
+    },
+    {
+      "subject": "A103",
+      "predicate": "влияет на",
+      "object": ["A101", "A102"]
+    },
+    {
+      "subject": "A104",
+      "predicate": "получается при",
+      "object": ["A103"]
+    },
+    {
+      "subject": "A105",
+      "predicate": "образуется при",
+      "object": ["A103"]
+    },
+    {
+      "subject": "A106",
+      "predicate": "снижает потери",
+      "object": ["A101", "A102"]
+    },
+    {
+      "subject": "A107",
+      "predicate": "выражается через",
+      "object": ["A100"]
+    },
+    {
+      "subject": "A108",
+      "predicate": "определяет потери",
+      "object": ["A101", "A102"]
+    },
+    {
+      "subject": "A109",
+      "predicate": "влияет на",
+      "object": ["A108"]
+    },
+    {
+      "subject": "A110",
+      "predicate": "преобладает в",
+      "object": ["A91"]
+    },
+    {
+      "subject": "A91",
+      "predicate": "содержит",
+      "object": ["A110"]
+    },
+    {
+      "subject": "A100",
+      "predicate": "зависит от",
+      "object": ["A106"]
+    },
+    {
+      "subject": "A101",
+      "predicate": "отличается от",
+      "object": ["A102"]
+    },
+    {
+      "subject": "A102",
+      "predicate": "больше чем",
+      "object": ["A101"]
+    },
+    {
+      "subject": "A103",
+      "predicate": "осуществляется с помощью",
+      "object": ["A104"]
+    },
+    {
+      "subject": "A104",
+      "predicate": "содержит",
+      "object": ["A101", "A102"]
+    },
+    {
+      "subject": "A105",
+      "predicate": "имеет константу",
+      "object": ["A100"]
+    },
+    {
+      "subject": "A106",
+      "predicate": "увеличивает",
+      "object": ["A100"]
+    },
+    {
+      "subject": "A107",
+      "predicate": "описывает",
+      "object": ["A101", "A102"]
+    },
+    {
+      "subject": "A108",
+      "predicate": "изучал",
+      "object": ["A91"]
+    },
+    {
+      "subject": "A109",
+      "predicate": "определяет",
+      "object": ["A110"]
+    },
+    {
+      "subject": "A110",
+      "predicate": "растворяется в",
+      "object": ["A91"]
+    },
+    {
+      "subject": "A91",
+      "predicate": "образуется при",
+      "object": ["A103"]
+    },
+    {
+      "subject": "A92",
+      "predicate": "включает",
+      "object": ["A91"]
+    },
+    {
+      "subject": "A93",
+      "predicate": "образует",
+      "object": ["A95"]
+    },
+    {
+      "subject": "A94",
+      "predicate": "имеет эвтектики",
+      "object": ["A91"]
+    },
+    {
+      "subject": "A97",
+      "predicate": "определяет температуру",
+      "object": ["A91"]
+    },
+    {
+      "subject": "A98",
+      "predicate": "снижается с температурой",
+      "object": ["A91"]
+    }
+  ]
+}

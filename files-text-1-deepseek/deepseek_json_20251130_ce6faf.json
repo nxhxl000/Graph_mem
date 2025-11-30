@@ -1,0 +1,301 @@
+{
+  "entities": [
+    {
+      "id": "A111",
+      "text": "оксисульфид"
+    },
+    {
+      "id": "A112",
+      "text": "сульфидно-металлический сплав"
+    },
+    {
+      "id": "A113",
+      "text": "феррит-кальциевый шлак"
+    },
+    {
+      "id": "A114",
+      "text": "растворимость сульфидов"
+    },
+    {
+      "id": "A115",
+      "text": "константа равновесия КNi/Fe"
+    },
+    {
+      "id": "A116",
+      "text": "константа равновесия КCo/Fe"
+    },
+    {
+      "id": "A117",
+      "text": "константа равновесия КCu/Fe"
+    },
+    {
+      "id": "A118",
+      "text": "механические потери"
+    },
+    {
+      "id": "A119",
+      "text": "растворенные потери"
+    },
+    {
+      "id": "A120",
+      "text": "закаливание шлака"
+    },
+    {
+      "id": "A121",
+      "text": "микрорентгеноспектральный анализ"
+    },
+    {
+      "id": "A122",
+      "text": "сульфидные включения"
+    },
+    {
+      "id": "A123",
+      "text": "вторичные сульфидные корольки"
+    },
+    {
+      "id": "A124",
+      "text": "равновесие обменных реакций"
+    },
+    {
+      "id": "A125",
+      "text": "оксидная форма никеля"
+    },
+    {
+      "id": "A126",
+      "text": "сульфидная форма никеля"
+    },
+    {
+      "id": "A127",
+      "text": "конвертерные шлаки"
+    },
+    {
+      "id": "A128",
+      "text": "шахтная плавка"
+    },
+    {
+      "id": "A129",
+      "text": "система FeS-FeO-CaO"
+    },
+    {
+      "id": "A130",
+      "text": "расслаивание расплавов"
+    }
+  ],
+  "triples": [
+    {
+      "subject": "A111",
+      "predicate": "образуется при",
+      "object": ["A128"]
+    },
+    {
+      "subject": "A111",
+      "predicate": "содержит",
+      "object": ["A114"]
+    },
+    {
+      "subject": "A112",
+      "predicate": "получается при",
+      "object": ["A128"]
+    },
+    {
+      "subject": "A112",
+      "predicate": "характеризуется",
+      "object": ["A106"]
+    },
+    {
+      "subject": "A113",
+      "predicate": "отличается от",
+      "object": ["A91"]
+    },
+    {
+      "subject": "A113",
+      "predicate": "снижает",
+      "object": ["A117"]
+    },
+    {
+      "subject": "A114",
+      "predicate": "определяет",
+      "object": ["A118", "A119"]
+    },
+    {
+      "subject": "A115",
+      "predicate": "характеризует",
+      "object": ["A102"]
+    },
+    {
+      "subject": "A116",
+      "predicate": "характеризует",
+      "object": ["A101"]
+    },
+    {
+      "subject": "A117",
+      "predicate": "отличается от",
+      "object": ["A115", "A116"]
+    },
+    {
+      "subject": "A118",
+      "predicate": "преобладают в",
+      "object": ["A128"]
+    },
+    {
+      "subject": "A119",
+      "predicate": "определяются",
+      "object": ["A100"]
+    },
+    {
+      "subject": "A120",
+      "predicate": "позволяет изучать",
+      "object": ["A125"]
+    },
+    {
+      "subject": "A121",
+      "predicate": "используется для",
+      "object": ["A122"]
+    },
+    {
+      "subject": "A122",
+      "predicate": "обнаруживаются в",
+      "object": ["A91"]
+    },
+    {
+      "subject": "A123",
+      "predicate": "образуются при",
+      "object": ["A120"]
+    },
+    {
+      "subject": "A124",
+      "predicate": "достигается в",
+      "object": ["A128"]
+    },
+    {
+      "subject": "A125",
+      "predicate": "преобладает в",
+      "object": ["A127"]
+    },
+    {
+      "subject": "A126",
+      "predicate": "преобладает в",
+      "object": ["A128"]
+    },
+    {
+      "subject": "A127",
+      "predicate": "отличаются от",
+      "object": ["A91"]
+    },
+    {
+      "subject": "A128",
+      "predicate": "производит",
+      "object": ["A111", "A112"]
+    },
+    {
+      "subject": "A129",
+      "predicate": "изучается для",
+      "object": ["A111"]
+    },
+    {
+      "subject": "A130",
+      "predicate": "наблюдается в",
+      "object": ["A129"]
+    },
+    {
+      "subject": "A111",
+      "predicate": "участвует в",
+      "object": ["A124"]
+    },
+    {
+      "subject": "A112",
+      "predicate": "влияет на",
+      "object": ["A115", "A116"]
+    },
+    {
+      "subject": "A113",
+      "predicate": "используется при",
+      "object": ["A128"]
+    },
+    {
+      "subject": "A114",
+      "predicate": "зависит от",
+      "object": ["A109"]
+    },
+    {
+      "subject": "A115",
+      "predicate": "меньше чем",
+      "object": ["A116"]
+    },
+    {
+      "subject": "A116",
+      "predicate": "определяет",
+      "object": ["A101"]
+    },
+    {
+      "subject": "A117",
+      "predicate": "растет с",
+      "object": ["A106"]
+    },
+    {
+      "subject": "A118",
+      "predicate": "составляют",
+      "object": ["A102"]
+    },
+    {
+      "subject": "A119",
+      "predicate": "регулируются",
+      "object": ["A107"]
+    },
+    {
+      "subject": "A120",
+      "predicate": "предотвращает",
+      "object": ["A123"]
+    },
+    {
+      "subject": "A121",
+      "predicate": "показывает",
+      "object": ["A125", "A126"]
+    },
+    {
+      "subject": "A122",
+      "predicate": "включают",
+      "object": ["A123"]
+    },
+    {
+      "subject": "A123",
+      "predicate": "содержат",
+      "object": ["A102"]
+    },
+    {
+      "subject": "A124",
+      "predicate": "описывается",
+      "object": ["A100"]
+    },
+    {
+      "subject": "A125",
+      "predicate": "находится в",
+      "object": ["A127"]
+    },
+    {
+      "subject": "A126",
+      "predicate": "преобладает при",
+      "object": ["A128"]
+    },
+    {
+      "subject": "A127",
+      "predicate": "содержат",
+      "object": ["A125"]
+    },
+    {
+      "subject": "A128",
+      "predicate": "дает",
+      "object": ["A126"]
+    },
+    {
+      "subject": "A129",
+      "predicate": "образует",
+      "object": ["A111"]
+    },
+    {
+      "subject": "A130",
+      "predicate": "приводит к",
+      "object": ["A111"]
+    }
+  ]
+}
